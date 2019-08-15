@@ -325,9 +325,8 @@ hr {
     height: 100%;
     display: grid;
     grid-template-areas:
-        'kanji reading'
-        'definition definition'
-        'examples examples';
+        'kanji definition'
+        'reading examples';
 }
 #learning {
     /* border: rgba(93, 87, 107, 1) solid 2px; */

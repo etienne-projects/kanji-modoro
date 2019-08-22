@@ -44,14 +44,16 @@ The following is a list of features used to create an easy-to-use design. Weeds 
 - [ ] **Need To Fix :** Data!!!  
     - [x] Entered data for N5; some examples need further review for accuracy
     - [ ] N4 - N1 data needs to be entered in
+    - [ ]　Will use KanjiAlive API in next version for card data
 - [ ] **Need To Fix :** Flash Card Mode is not working on mobile
 - [ ] **Need To Fix :** Currently flash card is set to flip on hover for non mobile devices, and on click for mobile devices but it flips only one time and doesn't got back unless user clicks outside of the card
+- [ ] Choose open source license and create contribution file
 - [x] Mobile responsive
 
 ### [Weeds & Flowers](#weeds-&-flowers)
 - [ ] **Need To Fix :** Kanji buttons styling - the dynamically created buttons look like they are missing their margin
 - [ ] **Need To Fix :** The group 01 and 11 buttons (and some others) shrink before other buttons depending on size of the screen
-- [ ] Improve card arrangement 
+- [ ] Improve card style/arrangement 
 - [ ] "Pomodoro Complete! Take a mini break" message (use the turtle!)
 - [ ] Random order of cards within group of 10 option
 - [ ] How To and Tips arrow animation
@@ -59,6 +61,7 @@ The following is a list of features used to create an easy-to-use design. Weeds 
 - [ ] The header turtle message box "Take your time, do it right." "Slow and steady wins the race." on hover, but have move across the top back and forth slowly, continuously
 - [ ] Add animation to last Asterisk after turtle jump animation
 - [ ] Flag/report a card for incorrect information
+- [ ] Add settings so users can choose what information they want the cards to show
 - [ ] Refactor to use cleaner code
 
 

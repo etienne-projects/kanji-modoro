@@ -42,9 +42,9 @@ The following is a list of features used to create an easy-to-use design. Weeds 
 - [x] User can select a specific kanji in the current group
 - [x] User can select a mode : Learning Mode or Flash Card Mode (default is set to Learning Mode)
 - [ ] **Need To Fix :** Data!!!  
-    - [x] Entered data for N5; some examples need further review for accuracy
-    - [ ] N4 - N1 data needs to be entered in
-    - [ ]　Will use KanjiAlive API in next version for card data
+    - [x] Entered data for N5-N3; some examples need further review for accuracy
+    - [ ] N2 and N1 data needs to be entered in
+    - [ ] Will use KanjiAlive API in next version for card data
 - [ ] **Need To Fix :** Flash Card Mode is not working on mobile
 - [ ] **Need To Fix :** Currently flash card is set to flip on hover for non mobile devices, and on click for mobile devices but it flips only one time and doesn't got back unless user clicks outside of the card
 - [ ] Choose open source license and create contribution file
@@ -63,6 +63,7 @@ The following is a list of features used to create an easy-to-use design. Weeds 
 - [ ] Flag/report a card for incorrect information
 - [ ] Add settings so users can choose what information they want the cards to show
 - [ ] Refactor to use cleaner code
+- [ ] Lists of data users can download (in different formats)
 
 
 ## [Author](#author)

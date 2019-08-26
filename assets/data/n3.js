@@ -1545,836 +1545,780 @@ const N3 = {
     "Group 25" : 
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "祭",
+                    "onyomi" : "サイ",
+                    "kunyomi" : "まつ.る, まつ.り, まつり",
+                    "definition" : "ritual, offer prayers, celebrate, deify, enshrine, worship",
+                    "examples" : ["冠婚葬祭 かんこんそうさい important ceremonial occasions in family relationships (n)","祭り まつり festival, feast (n)","秋祭り 【あきまつり】 autumn festival, fall festival"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "福",
+                    "onyomi" : "フク",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "blessing, fortune, luck, wealth",
+                    "examples" : ["幸福 こうふく happiness, blessedness (adj-na, n)","福祉 ふくし welfare, social security, social service, well-being (n)","裕福 ゆうふく affluence, prosperity (adj-na, n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "科",
+                    "onyomi" : "カ",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "department, course, section",
+                    "examples" : ["科学 かがく science (n)","外科 げか surgical department (n)","学科 がっか study subject, course of study (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "秒",
+                    "onyomi" : "ビョウ",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "second",
+                    "examples" : ["秒 びょう second (60th min) (n)","秒読み びょうよみ countdown (n)","秒速 ビョウソク per second"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "種",
+                    "onyomi" : "シュ",
+                    "kunyomi" : "たね, -ぐさ",
+                    "definition" : "species, kind, class, variety, seed",
+                    "examples" : ["人種 じんしゅ race (of people) (n)","品種 ひんしゅ kind (of goods), brand, (taxonomical) form, breed, cultivar (n)","種類 しゅるい variety, kind, type, category, counter for different sorts of things (n, counter)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "積",
+                    "onyomi" : "セキ",
+                    "kunyomi" : "つ.む, -づ.み, つ.もる, つ.もり",
+                    "definition" : "volume, product (x*y), acreage, contents, pile up, stack, load, amass",
+                    "examples" : ["積む つむ to pile up, to stack, to load (car, ship, etc.), to pack (v5m)","積極的 せっきょくてき positive, active, proactive (adj-na)","積み立て つみたて savings (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "章",
+                    "onyomi" : "ショウ",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "badge, chapter, composition, poem, design",
+                    "examples" : ["章 しょう chapter, section, medal (n)","文章 ぶんしょう sentence, article (n)","楽章 ガクショウ (musical) movement"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "童",
+                    "onyomi" : "ドウ",
+                    "kunyomi" : "わらべ",
+                    "definition" : "juvenile, child",
+                    "examples" : ["児童 じどう children, juvenile (n)","童話 どうわ fairy-tale (n)","天童 テンドウ cherub, gods disguised as children, children parading as cherubs"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "競",
+                    "onyomi" : "キョウ, ケイ",
+                    "kunyomi" : "きそ.う, せ.る",
+                    "definition" : "emulate, compete with, bid, sell at auction, bout, contest, race",
+                    "examples" : ["競う きそう to compete with, to emulate (v5s, intransitive verb)","競争 きょうそう competition, contest, to compete (n, vs)","競技 きょうぎ game, match, contest (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "竹",
+                    "onyomi" : "チク",
+                    "kunyomi" : "たけ",
+                    "definition" : "bamboo",
+                    "examples" : ["竹 たけ bamboo, middle (of a three-tier ranking system) (n)","笛竹 ふえたけ bamboo flute, bamboo for making flutes, wind and string instruments","竹林 チクリン bamboo thicket"]
                 }
             ],
 
     "Group 26" :
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "笑",
+                    "onyomi" : "ショウ",
+                    "kunyomi" : "わら.う, え.む",
+                    "definition" : "laugh",
+                    "examples" : ["苦笑い にがわらい bitter smile (n, vs)","笑い声 わらいごえ laughter (n)","笑顔 えがお smiling face, smile (n, vs)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "笛",
+                    "onyomi" : "テキ",
+                    "kunyomi" : "ふえ",
+                    "definition" : "flute, clarinet, pipe, whistle, bagpipe, piccolo",
+                    "examples" : ["汽笛 きてき steam whistle (n)","口笛 くちぶえ whistle (n)","笛 ふえ flute, pipe, whistle (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "第",
+                    "onyomi" : "ダイ, テイ",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "No., residence",
+                    "examples" : ["次第に しだいに gradually (progress into a state), in sequence, in order, in turn (adv)","第宅 ていたく mansion, residence (n)","落第 らくだい failure, dropping out of a class (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "筆",
+                    "onyomi" : "ヒツ",
+                    "kunyomi" : "ふで",
+                    "definition" : "writing brush, writing, painting brush, handwriting",
+                    "examples" : ["鉛筆 えんぴつ pencil (n)","筆 ふで writing brush (n)","筆記 ひっき (taking) notes, copying (n, vs)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "等",
+                    "onyomi" : "トウ",
+                    "kunyomi" : "ひと.しい, など, -ら",
+                    "definition" : "etc., and so forth, class (first), quality, equal, similar",
+                    "examples" : ["均等 きんとう equality, uniformity, evenness (adj-na, n)","高等 こうとう high class, high grade (adj-na, n)","１等 いっとう first-class, first-rank, A1, the most, the best (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "算",
+                    "onyomi" : "サン",
+                    "kunyomi" : "そろ",
+                    "definition" : "calculate, divining, number, abacus, probability",
+                    "examples" : ["計算 けいさん calculation, reckoning, count, forecast (n, vs)","換算 かんざん conversion, change, exchange (n, vs)","採算 さいさん profit (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "管",
+                    "onyomi" : "カン",
+                    "kunyomi" : "くだ",
+                    "definition" : "pipe, tube, wind instrument, drunken talk",
+                    "examples" : ["血管 けっかん blood vessel (n)","保管 ほかん charge, custody, safekeeping, deposit, storage (n, vs)","管轄 かんかつ jurisdiction, control (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "箱",
+                    "onyomi" : "ソウ",
+                    "kunyomi" : "はこ",
+                    "definition" : "box, chest, case, bin, railway car",
+                    "examples" : ["書箱 ショソウ bookcase","リサイクル用の箱 リサイクルようのはこ recycling bin, recycling box","箱入り はこいり cased, boxed, precious, cherished, girl who has been sheltered from the world, one's special talent"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "節",
+                    "onyomi" : "セツ, セチ",
+                    "kunyomi" : "ふし, -ぶし, のっと",
+                    "definition" : "node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody",
+                    "examples" : ["関節 かんせつ joints (knee joint, elbow joint, etc.) (n)","節約 せつやく economising, saving (n, vs)","節 せつ occasion, time, section (of a literary work), verse, stanza, node (of a plant stem), clause, (taxonomical) section (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "米",
+                    "onyomi" : "ベイ, マイ, メエトル",
+                    "kunyomi" : "こめ, よね",
+                    "definition" : "rice, USA, metre",
+                    "examples" : ["新米 しんまい new rice, novice, beginner, tyro, newcomer, newbie (exp, n)","日米 にちべい Japan-America (n)","米価 べいか rice price (n)"]
                 }
             ],
     "Group 27" : 
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "粉",
+                    "onyomi" : "フン",
+                    "kunyomi" : "こ, こな",
+                    "definition" : "flour, powder, dust",
+                    "examples" : ["小麦粉 こむぎこ wheat flour (n)","粉 こ flour, meal, powder (n)","粉末 ふんまつ fine powder (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "糸",
+                    "onyomi" : "シ",
+                    "kunyomi" : "いと",
+                    "definition" : "thread",
+                    "examples" : ["糸 いと thread, yarn, string (n, n-suf)","毛糸 けいと knitting wool (n)","繭糸 きぬいと silk thread (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "紀",
+                    "onyomi" : "キ",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "chronicle, account, narrative, history, annals, geologic period",
+                    "examples" : ["紀元 きげん era, AD (Christian era) (n)","紀律 きりつ order, observance, discipline, rules, law, regulations (n)","世紀 せいき century, era (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "約",
+                    "onyomi" : "ヤク",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "promise, approximately, shrink",
+                    "examples" : ["解約 かいやく cancellation of contract (n, vs)","契約 けいやく contract, compact, agreement (n, vs)","婚約 こんやく engagement, betrothal (n, vs)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "級",
+                    "onyomi" : "キュウ",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "class, rank, grade",
+                    "examples" : ["初級 しょきゅう elementary level (n)","上級 じょうきゅう advanced level, high grade, senior (n)","中級 ちゅうきゅう intermediate level (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "細",
+                    "onyomi" : "サイ",
+                    "kunyomi" : "ほそ.い, ほそ.る, こま.か, こま.かい",
+                    "definition" : "dainty, get thin, taper, slender, narrow",
+                    "examples" : ["細い ほそい thin, slender, fine (adj)","細かい こまかい small, fine, minute, minor, trivial, sensitive, attentive (adj)","細工 さいく work, craftsmanship, tactics, trick (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "組",
+                    "onyomi" : "ソ",
+                    "kunyomi" : "く.む, くみ, -ぐみ",
+                    "definition" : "association, braid, plait, construct, assemble, unite, cooperate, grapple",
+                    "examples" : ["組み立てる くみたてる to assemble, to set up, to construct (Ichidan verb, vt)","組込む くみこむ to insert, to include, to cut in (printing) (v5m, vt)","取組む とっくむ to tackle, to wrestle with, to engage in a bout, to come to grips with, to make effort, to strive for (v5m, intransitive verb)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "結",
+                    "onyomi" : "ケツ, ケチ",
+                    "kunyomi" : "むす.ぶ, ゆ.う, ゆ.わえる",
+                    "definition" : "tie, bind, contract, join, organize, do up hair, fasten",
+                    "examples" : ["結果 けっか result, consequence (n-adv, n-t)","結局 けっきょく after all, eventually (n-adv, n)","結ぶ むすぶ to tie, to bind, to link, to bear (fruit) (v5b)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "給",
+                    "onyomi" : "キュウ",
+                    "kunyomi" : "たま.う, たも.う, -たま.え",
+                    "definition" : "salary, wage, gift, allow, grant, bestow on",
+                    "examples" : ["給料 きゅうりょう salary, wages (n)","月給 げっきゅう monthly salary (n)","給食 きゅうしょく school lunch, providing a meal (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "絵",
+                    "onyomi" : "カイ, エ",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "picture, drawing, painting, sketch",
+                    "examples" : ["絵本 えほん picture book (n)","絵画 かいが picture, painting (n)","油絵 あぶらえ oil painting (n)"]
                 }
             ],
-
     "Group 28" :
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "続",
+                    "onyomi" : "ゾク, ショク, コウ, キョウ",
+                    "kunyomi" : "つづ.く, つづ.ける, つぐ.ない",
+                    "definition" : "continue, series, sequel",
+                    "examples" : ["接続 せつぞく connection, attachment, union, join, joint, link, changing trains, conjunction (n, vs)","継続 けいぞく continuation (n, vs, adj-no)","相続 そうぞく succession, inheritance (n, vs)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "緑",
+                    "onyomi" : "リョク, ロク",
+                    "kunyomi" : "みどり",
+                    "definition" : "green",
+                    "examples" : ["緑 みどり green, greenery (esp. fresh verdure) (n)","常緑 ジョウリョク evergreen","青緑 あおみどり blue-green, turquoise, aqua, spirogyra, algae forming pond scum"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "線",
+                    "onyomi" : "セン",
+                    "kunyomi" : "すじ",
+                    "definition" : "line, track",
+                    "examples" : ["光線 こうせん beam, light ray (n)","曲線 きょくせん curve (n)","新幹線 しんかんせん bullet train (very high speed), Shinkansen (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "練",
+                    "onyomi" : "レン",
+                    "kunyomi" : "ね.る, ね.り",
+                    "definition" : "practice, gloss, train, drill, polish, refine",
+                    "examples" : ["未練 みれん lingering affection, attachment, regret(s), reluctance (adj-na, n)","練る ねる to knead, to work over, to polish up (eg a plan), to drill, to train (v5r, vt)","練習 れんしゅう practice, practise (n, vs)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "置",
+                    "onyomi" : "チ",
+                    "kunyomi" : "お.く, -お.き",
+                    "definition" : "placement, put, set, deposit, leave behind, keep, employ, pawn",
+                    "examples" : ["処置 しょち treatment, measure, step (n, vs)","設置 せっち establishment, institution (n, vs)","前置き まえおき preface, introduction (n, vs)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "羊",
+                    "onyomi" : "ヨウ",
+                    "kunyomi" : "ひつじ",
+                    "definition" : "sheep",
+                    "examples" : ["羊毛 ようもう wool (n)","羊肉 ヨウニク mutton, lamb (meat)","迷える子羊 まよえるこひつじ stray sheep, lost lamb, person at a loss for what to do"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "美",
+                    "onyomi" : "ビ, ミ",
+                    "kunyomi" : "うつく.しい",
+                    "definition" : "beauty, beautiful",
+                    "examples" : ["美しい うつくしい beautiful, lovely (adj)","美事 みごと splendid, magnificent, beautiful, admirable, praiseworthy act, feat, commendable deed (adj-na, n)","美 び beauty (n, n-suf)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "羽",
+                    "onyomi" : "ウ",
+                    "kunyomi" : "は, わ, はね",
+                    "definition" : "feathers, counter for birds, rabbits",
+                    "examples" : ["羽子 はね feather, plume, wing, blade (fan, propeller, etc.) (n, n)","羽ばたく はばたく to flap (wings) (v5k, intransitive verb)","羽 ぱ counter for birds and rabbits (counter)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "老",
+                    "onyomi" : "ロウ",
+                    "kunyomi" : "お.いる, ふ.ける",
+                    "definition" : "old man, old age, grow old",
+                    "examples" : ["老いる おいる to age, to grow old (Ichidan verb, intransitive verb)","老後 ろうご old age (n)","老人 ろうじん the aged, old person (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "育",
+                    "onyomi" : "イク",
+                    "kunyomi" : "そだ.つ, そだ.ち, そだ.てる, はぐく.む",
+                    "definition" : "bring up, grow up, raise, rear",
+                    "examples" : ["育つ そだつ to be raised (eg child), to be brought up, to grow (up) (v5t, intransitive verb)","育児 いくじ childcare, nursing, upbringing (n, vs)","教育 きょういく training, education (n, adj-no, vs)"]
                 }
             ],
     "Group 29" : 
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "胃",
+                    "onyomi" : "イ",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "stomach, paunch, crop, craw",
+                    "examples" : ["胃 い stomach (n)","胃腸 いちょう stomach, gastrointestine (adj-na, n)",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "脈",
+                    "onyomi" : "ミャク",
+                    "kunyomi" : "すじ",
+                    "definition" : "vein, pulse, hope",
+                    "examples" : ["文脈 ぶんみゃく context (n)","山脈 やまなみ mountain range (n)","脈絡 みゃくらく chain of reasoning, logical connection, coherence, context (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "腸",
+                    "onyomi" : "チョウ",
+                    "kunyomi" : "はらわた",
+                    "definition" : "intestines, guts, bowels, viscera",
+                    "examples" : ["胃腸 いちょう stomach, gastrointestine (adj-na, n)","腸 わた guts, bowels, intestines (n)","盲腸 もうちょう appendix, caecum (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "臣",
+                    "onyomi" : "シン, ジン",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "retainer, subject",
+                    "examples" : ["総理大臣 そうりだいじん Prime Minister (n)","大臣 だいじん cabinet minister (n)",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "航",
+                    "onyomi" : "コウ",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "navigate, sail, cruise, fly",
+                    "examples" : ["航空 こうくう aviation, flying (n)","航空便 こうくうびん air mail (n)","航路 こうろ course, (sea) route, run (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "船",
+                    "onyomi" : "セン",
+                    "kunyomi" : "ふね, ふな-",
+                    "definition" : "ship, boat",
+                    "examples" : ["汽船 きせん steamship, steamboat, steamer (n)","漁船 ぎょせん fishing boat (n)","船長 せんちょう ship's captain (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "良",
+                    "onyomi" : "リョウ",
+                    "kunyomi" : "よ.い, -よ.い, い.い, -い.い",
+                    "definition" : "good, pleasing, skilled",
+                    "examples" : ["良心 りょうしん conscience (n)","仲良く なかよく making friends with, getting along well with, on cordial terms (adv, n, vs)","改良 かいりょう improvement, reform (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "芸",
+                    "onyomi" : "ゲイ, ウン",
+                    "kunyomi" : "う.える, のり, わざ",
+                    "definition" : "technique, art, craft, performance, acting, trick, stunt",
+                    "examples" : ["芸能 げいのう public entertainment, accomplishments, attainments (n)","園芸 えんげい horticulture, gardening (n)","芸術 げいじゅつ (fine) art, the arts (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "芽",
+                    "onyomi" : "ガ",
+                    "kunyomi" : "め",
+                    "definition" : "bud, sprout, spear, germ",
+                    "examples" : ["芽 め sprout (n)","発芽 はつが burgeoning (n, vs)","若芽 【わかめ】 sprouts, new shoots, young buds"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "苦",
+                    "onyomi" : "ク",
+                    "kunyomi" : "くる.しい, -ぐる.しい, くる.しむ, くる.しめる, にが.い, にが.る",
+                    "definition" : "suffering, trial, worry, hardship, feel bitter, scowl",
+                    "examples" : ["ご苦労様 ごくろうさま thank you very much for your ..., I appreciate your efforts (exp, adj-na)","苦い にがい bitter (adj)","苦しむ くるしむ to suffer, to groan, to be worried (v5m, intransitive verb)"]
                 }
             ],
-
     "Group 30" :
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "草",
+                    "onyomi" : "ソウ",
+                    "kunyomi" : "くさ, くさ-, -ぐさ",
+                    "definition" : "grass, weeds, herbs, pasture, write, draft",
+                    "examples" : ["雑草 ざっそう weed (n)","草 くさ grass (n)","草花 そうか flower, flowering plant (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "荷",
+                    "onyomi" : "カ",
+                    "kunyomi" : "に",
+                    "definition" : "baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight",
+                    "examples" : ["荷物 にもつ luggage, baggage, payload (of a packet, cell, etc.) (n)","入荷 にゅうか arrival of goods, goods received (n, vs)","出荷 しゅっか shipping, outgoing freight, forwarding (n, vs)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "落",
+                    "onyomi" : "ラク",
+                    "kunyomi" : "お.ちる, お.ち, お.とす",
+                    "definition" : "fall, drop, come down",
+                    "examples" : ["一段落 ひとだんらく pause (n, vs)","見落す みおとす to overlook, to fail to notice, to miss (seeing) (v5s, vt)","堕落 だらく depravity, corruption, degradation (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "葉",
+                    "onyomi" : "ヨウ",
+                    "kunyomi" : "は",
+                    "definition" : "leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece",
+                    "examples" : ["木ノ葉 きのは foliage, leaves of trees (n)","黄葉 もみじ autumn colours, fall colors, leaves changing color (colour), leaves turning red, red leaves (n, vs, n)","枝葉 しよう leaves and branches, side issues, foliage (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "虫",
+                    "onyomi" : "チュウ, キ",
+                    "kunyomi" : "むし",
+                    "definition" : "insect, bug, temper",
+                    "examples" : ["害虫 がいちゅう harmful insect, noxious insect (n)","昆虫 こんちゅう insect, bug (n)","弱虫 よわむし coward, weakling (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "血",
+                    "onyomi" : "ケツ",
+                    "kunyomi" : "ち",
+                    "definition" : "blood",
+                    "examples" : ["血圧 けつあつ blood pressure (n)","血管 けっかん blood vessel (n)","血縁 けつえん blood relative or relationship, consanguinity (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "街",
+                    "onyomi" : "ガイ, カイ",
+                    "kunyomi" : "まち",
+                    "definition" : "boulevard, street, town",
+                    "examples" : ["街 ちょう town, block, neighborhood, street, road, 109.09 m, 0.99 hectares (n)","市街 しがい urban areas, the streets, town, city (n","街道 かいどう highway (esp. one existing from the Edo period), main road (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "衣",
+                    "onyomi" : "イ, エ",
+                    "kunyomi" : "ころも, きぬ, -ぎ",
+                    "definition" : "garment, clothes, dressing",
+                    "examples" : ["衣食住 いしょくじゅう necessities of life (food, clothing and shelter) (n)","衣服 いふく clothes (n)","更衣室 こういしつ locker room, changing room, dressing room (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "表",
+                    "onyomi" : "ヒョウ",
+                    "kunyomi" : "おもて, -おもて, あらわ.す, あらわ.れる, あら.わす",
+                    "definition" : "surface, table, chart, diagram",
+                    "examples" : ["発表 はっぴょう announcement, publication (n, vs)","代表 だいひょう representative, representation, delegation, type, example, model (n, vs)","表 おもて surface, face (ie visible side of an object), front (of a building) of a coin etc (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "要",
+                    "onyomi" : "ヨウ",
+                    "kunyomi" : "い.る",
+                    "definition" : "need, main point, essence, pivot, key to",
+                    "examples" : ["強要 きょうよう coercion, extortion (n, vs)","重要 じゅうよう important, momentous, essential, principal, major (adj-na, n)","不必要 ふひつよう unnecessary (adj-na, n)"]
                 }
             ],
     "Group 31" : 
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "覚",
+                    "onyomi" : "カク",
+                    "kunyomi" : "おぼ.える, さ.ます, さ.める, さと.る",
+                    "definition" : "memorize, learn, remember, awake, sober up",
+                    "examples" : ["覚悟 かくご resolution, resignation, readiness, preparedness (n, vs)","感覚 かんかく sense, sensation (n, vs)","幻覚 げんかく hallucination, illusion (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "観",
+                    "onyomi" : "カン",
+                    "kunyomi" : "み.る, しめ.す",
+                    "definition" : "outlook, look, appearance, condition, view",
+                    "examples" : ["観察 かんさつ observation, survey (n, vs)","外観 がいかん appearance, exterior, facade (n)","観客 かんきゃく audience, spectator(s) (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "角",
+                    "onyomi" : "カク",
+                    "kunyomi" : "かど, つの",
+                    "definition" : "angle, corner, square, horn, antlers",
+                    "examples" : ["角 かど corner (eg desk, pavement), edge (n)","角度 かくど angle (n)","三角 さんかく triangle, triangular (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "訓",
+                    "onyomi" : "クン, キン",
+                    "kunyomi" : "おし.える, よ.む, くん.ずる",
+                    "definition" : "instruction, Japanese character reading, explanation, read",
+                    "examples" : ["教訓 きょうくん lesson, precept, moral instruction (n, vs)","訓連 くんれん practice, practise, training (n, vs)","特訓 とっくん special training, intensive training, crash course (n, vs)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "記",
+                    "onyomi" : "キ",
+                    "kunyomi" : "しる.す",
+                    "definition" : "scribe, account, narrative",
+                    "examples" : ["記憶 きおく memory, recollection, remembrance, storage (n, vs)","記事 きじ article, news story, report, account (n)","記者 きしゃ reporter (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "詩",
+                    "onyomi" : "シ",
+                    "kunyomi" : "うた",
+                    "definition" : "poem, poetry",
+                    "examples" : ["詩 うた song, classical Japanese poetry (esp. tanka), modern poetry (n)","詩人 しじん poet (n)","詩歌 しか Japanese (and Chinese) poetry (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "課",
+                    "onyomi" : "カ",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "chapter, lesson, section, department, division, counter for chapters (of a book)",
+                    "examples" : ["課長 かちょう section manager, section chief (n)","課税 かぜい taxation (n, vs)","課 か lesson, section (in an organization), division, department, counter for lessons and chapters (of a book) (n, n-suf, counter)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "調",
+                    "onyomi" : "チョウ",
+                    "kunyomi" : "しら.べる, しら.べ, ととの.う, ととの.える",
+                    "definition" : "tune, tone, meter, key (music), writing style, prepare, exorcise, investigate",
+                    "examples" : ["下調べ したしらべ preliminary investigation, preparation (n, vs)","体調 たいちょう physical condition (n)","順調 じゅんちょう favourable, favorable, doing well, OK, all right (adj-na, n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "談",
+                    "onyomi" : "ダン",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "discuss, talk",
+                    "examples" : ["縁談 えんだん marriage proposal, engagement (n)","会談 かいだん conversation, conference, discussion, interview (n, vs)","商談 しょうだん business discussion, negotiation (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "議",
+                    "onyomi" : "ギ",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "deliberation, consultation, debate, consideration",
+                    "examples" : ["議題 ぎだい topic of discussion, agenda (n)","会議 かいぎ meeting, conference, session, assembly, council, convention, congress (n, vs)","議会 ぎかい Diet, congress, parliament (n)"]
                 }
             ],
     "Group 32" : 
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "谷",
+                    "onyomi" : "コク",
+                    "kunyomi" : "たに, きわ.まる",
+                    "definition" : "valley",
+                    "examples" : ["谷 たに valley","千尋の谷 せんじんのたに bottomless ravine, abyss",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "豆",
+                    "onyomi" : "トウ, ズ",
+                    "kunyomi" : "まめ, まめ",
+                    "definition" : "beans, pea, midget",
+                    "examples" : ["大豆 だいず soya bean (soybean), soy (Glycine max) (n)","豆腐 とうふ tofu, bean-curd (n)","納豆 なっとう natto (fermented soybeans) (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "象",
+                    "onyomi" : "ショウ, ゾウ",
+                    "kunyomi" : "かたど.る",
+                    "definition" : "elephant, pattern after, imitate, image, shape, sign (of the times)",
+                    "examples" : ["印象 いんしょう impression (n, vs)","現象 げんしょう phenomenon (n)","象徴 しょうちょう symbol (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "貝",
+                    "onyomi" : "バイ",
+                    "kunyomi" : "かい",
+                    "definition" : "shellfish",
+                    "examples" : ["貝 かい shellfish, seashell, shell","貝殻 かいがら seashell, shell","魚介 ぎょかい marine products, seafood, fish and shellfish"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "負",
+                    "onyomi" : "フ",
+                    "kunyomi" : "ま.ける, ま.かす, お.う",
+                    "definition" : "defeat, negative, -, minus, bear, owe, assume a responsibility",
+                    "examples" : ["勝負 しょうぶ victory or defeat, match, contest, game, bout (n, vs)","負ける まける to lose, to be defeated (Ichidan verb, intransitive verb)","負う おう to bear, to owe (v5s, vt)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "貨",
+                    "onyomi" : "カ",
+                    "kunyomi" : "たから",
+                    "definition" : "freight, goods, property",
+                    "examples" : ["硬貨 こうか coin (n)","外貨 がいか imported goods, foreign money (n)","貨車 かしゃ freight car, van (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "貯",
+                    "onyomi" : "チョ",
+                    "kunyomi" : "た.める, たくわ.える",
+                    "definition" : "savings, store, lay in, keep, wear mustache",
+                    "examples" : ["貯金 ちょきん (bank) savings (n, vs)","貯える たくわえる to store, to lay in stock (Ichidan verb, vt)","貯める 【ためる】 to save up (money)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "費",
+                    "onyomi" : "ヒ",
+                    "kunyomi" : "つい.やす, つい.える",
+                    "definition" : "expense, cost, spend, consume, waste",
+                    "examples" : ["会費 かいひ membership fee (n)","学費 がくひ tuition, school expenses (n)","交通費 こうつうひ traveling expenses, travelling expenses, carfare (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "賞",
+                    "onyomi" : "ショウ",
+                    "kunyomi" : "ほ.める",
+                    "definition" : "prize, reward, praise",
+                    "examples" : ["賞金 しょうきん prize, monetary award (n)","観賞 かんしょう admiration, enjoyment (n, vs)","鑑賞 かんしょう appreciation (eg of art), aesthetic sense (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "路",
+                    "onyomi" : "ロ, ル",
+                    "kunyomi" : "-じ, みち",
+                    "definition" : "path, route, road, distance",
+                    "examples" : ["高速道路 こうそくどうろ highway, freeway, expressway, motorway (n)","十字路 じゅうじろ crossroads (n)","進路 しんろ route, course, career, university choices, course (of future life) (n)"]
                 }
             ],
     "Group 33" :
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "身",
+                    "onyomi" : "シン",
+                    "kunyomi" : "み",
+                    "definition" : "somebody, person, one's station in life",
+                    "examples" : ["刺し身 さしみ sashimi (sliced raw fish) (n)","自身 じしん by oneself, personally (n)","出身 しゅっしん person's origin (town, city, country, etc.), institution from which one graduated (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "軍",
+                    "onyomi" : "グン",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "army, force, troops, war, battle",
+                    "examples" : ["海軍 かいぐん navy (n)","空軍 くうぐん Air Force (n)","軍 ぐん army, force, troops (n, n-suf)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "輪",
+                    "onyomi" : "リン",
+                    "kunyomi" : "わ",
+                    "definition" : "wheel, ring, circle, link, loop, counter for wheels and flowers",
+                    "examples" : ["年輪 ねんりん annual tree ring (n)","輪ゴム わゴム rubber band (n)","輪廓 りんかく contours, outlines, features (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "辞",
+                    "onyomi" : "ジ",
+                    "kunyomi" : "や.める, いな.む",
+                    "definition" : "resign, word, term, expression",
+                    "examples" : ["御辞儀 おじぎ bow (n, vs)","辞書 じしょ dictionary, lexicon, letter of resignation (n)","辞職 じしょく resignation (n, vs)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "農",
+                    "onyomi" : "ノウ",
+                    "kunyomi" : "農家 のうか farmer, farm family (n)",
+                    "definition" : "agriculture, farmers",
+                    "examples" : ["農協 のうきょう agricultural cooperative (n)","農業 のうぎょう agriculture (n)","農家 のうか farmer, farm family (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "辺",
+                    "onyomi" : "ヘン",
+                    "kunyomi" : "あた.り, ほと.り, -べ",
+                    "definition" : "environs, boundary, border, vicinity",
+                    "examples" : ["海辺 かいへん beach, seashore (n)","辺 へん area, vicinity, side (of triangle, rectangle, etc.), circumstances (n)","周辺 しゅうへん circumference, outskirts, environs, around, in the area of, in the vicinity of, (computer) peripheral (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "返",
+                    "onyomi" : "ヘン",
+                    "kunyomi" : "かえ.す, -かえ.す, かえ.る, -かえ.る",
+                    "definition" : "return, answer, fade, repay",
+                    "examples" : ["取返す とりかえす to regain, to recover, to get back (v5s, vt)","繰返す くりかえす to repeat, to do something over again (v5s, intransitive verb)","言返す いいかえす to repeat, to talk back, to answer back (v5s, vt)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "追",
+                    "onyomi" : "ツイ",
+                    "kunyomi" : "お.う",
+                    "definition" : "chase, drive away, follow, pursue, meanwhile",
+                    "examples" : ["追及 ついきゅう investigation (eg into someone's guilt), questioning, pressing, catching up, overtaking (n, vs)","追加 ついか addition, supplement, append (eg to a file), appendix (n, vs)","追い出す おいだす to expel, to drive out (v5s, vt)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "速",
+                    "onyomi" : "ソク",
+                    "kunyomi" : "はや.い, はや-, はや.める, すみ.やか",
+                    "definition" : "quick, fast",
+                    "examples" : ["高速 こうそく high speed, high gear, highway, freeway, expressway, motorway (adj-na, n)","減速 げんそく deceleration (n, vs)","加速 かそく acceleration (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "連",
+                    "onyomi" : "レン",
+                    "kunyomi" : "つら.なる, つら.ねる, つ.れる, -づ.れ",
+                    "definition" : "take along, lead, join, connect, party, gang, clique",
+                    "examples" : ["訓連 くんれん practice, practise, training (n, vs)","連ねる つらねる to link, to join, to put together (Ichidan verb, vt)","連れる つれる to lead, to take (a person) (Ichidan verb)"]
                 }
             ],
     "Group 34" : 
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "遊",
+                    "onyomi" : "ユウ, ユ",
+                    "kunyomi" : "あそ.ぶ, あそ.ばす",
+                    "definition" : "play",
+                    "examples" : ["遊び あそび playing (n, n-suf)","遊ぶ あそぶ to play, to make a visit (esp. for pleasure), to be idle, to do nothing (v5b, intransitive verb)","遊園地 ゆうえんち amusement park (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "達",
+                    "onyomi" : "タツ, ダ",
+                    "kunyomi" : "-たち",
+                    "definition" : "accomplished, reach, arrive, attain",
+                    "examples" : ["上達 じょうたつ improvement, advance, progress (n, vs)","速達 そくたつ express, special delivery (n, vs)","達成 たっせい achievement (n, vs)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "選",
+                    "onyomi" : "セン",
+                    "kunyomi" : "えら.ぶ",
+                    "definition" : "elect, select, choose, prefer",
+                    "examples" : ["選挙 せんきょ election (n, vs)","選手 せんしゅ player (in game), team member (n)","選択 せんたく selection, choice, option (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "郡",
+                    "onyomi" : "グン",
+                    "kunyomi" : "こうり",
+                    "definition" : "county, district",
+                    "examples" : ["郡 こおり district, county (n)","郡部 グンブ rural districts, counties",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "部",
+                    "onyomi" : "ブ",
+                    "kunyomi" : "-べ",
+                    "definition" : "section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+                    "examples" : ["一部 いちぶ one part, one portion, one section, some, one copy (eg of a document) (n-adv, n)","幹部 かんぶ management, (executive) staff, leaders (n)","学部 がくぶ department of a university, undergraduate (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "配",
+                    "onyomi" : "ハイ",
+                    "kunyomi" : "くば.る",
+                    "definition" : "distribute, spouse, exile, rationing",
+                    "examples" : ["心配 しんぱい worry, concern, anxiety, care (adj-na, n, vs)","支配 しはい rule, control, direction (n, vs)","気配 きはい indication, sign, hint, presence, trend, quotation (esp. stock market) (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "酒",
+                    "onyomi" : "シュ",
+                    "kunyomi" : "さけ, さか-",
+                    "definition" : "sake, alcohol",
+                    "examples" : ["居酒屋 いざかや bar, pub, tavern (n)","禁酒 きんしゅ prohibition, temperance, abstinence (n, vs)","日本酒 にほんしゅ sake, Japanese rice wine (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "里",
+                    "onyomi" : "リ",
+                    "kunyomi" : "さと",
+                    "definition" : "ri, village, parent's home, league",
+                    "examples" : ["郷里 きょうり birth-place, home town (n)","旧里 きゅうり home town, birthplace, old village, historic village, native place, one's old home (n)",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "量",
+                    "onyomi" : "リョウ",
+                    "kunyomi" : "はか.る",
+                    "definition" : "quantity, measure, weight, amount, consider, estimate, surmise",
+                    "examples" : ["多量 たりょう large quantity (adj-na, n)","数量 すうりょう quantity, volume (n)","質量 しつりょう mass (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "鉄",
+                    "onyomi" : "テツ",
+                    "kunyomi" : "くろがね",
+                    "definition" : "iron",
+                    "examples" : ["国鉄 こくてつ national railway (n)","私鉄 してつ private railway (n)","鉄 てつ iron (n)"]
                 }
             ],
     "Group 35" : 
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "録",
+                    "onyomi" : "ロク",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "record",
+                    "examples" : ["記録 きろく record, minutes, document, a record (eg in sports), results, score, to record, to document, to set a record (eg in sports), to show a result, to reach a value (n, vs)","登録 とうろく registration, accession, register, entry, record (n, vs)","目録 もくろく catalogue, catalog, list (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "鏡",
+                    "onyomi" : "キョウ, ケイ",
+                    "kunyomi" : "かがみ",
+                    "definition" : "mirror, speculum, barrel-head, round rice-cake offering",
+                    "examples" : ["鏡 かがみ mirror (n)","眼鏡 めがね spectacles, glasses (n)","望遠鏡 ぼうえんきょう telescope (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "関",
+                    "onyomi" : "カン",
+                    "kunyomi" : "せき, -ぜき, かか.わる, からくり, かんぬき",
+                    "definition" : "connection, barrier, gateway, involve, concerning",
+                    "examples" : ["関する かんする to concern, to be related (suru verb - special class)","関係 かんけい relation, connection (n, vs)","関心 かんしん concern, interest (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "陸",
+                    "onyomi" : "リク, ロク",
+                    "kunyomi" : "おか",
+                    "definition" : "land, six",
+                    "examples" : ["大陸 たいりく continent (n)","着陸 ちゃくりく landing, alighting, touch down (n, vs)","離陸 りりく takeoff (n, vs)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "陽",
+                    "onyomi" : "ヨウ",
+                    "kunyomi" : "ひ",
+                    "definition" : "sunshine, yang principle, positive, male, heaven, daytime",
+                    "examples" : ["太陽 たいよう sun, solar (n)","陽射し ひざし sunlight, rays of the sun (n)","陽気 ようき cheerful, merry, season, weather (adj-na, n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "隊",
+                    "onyomi" : "タイ",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "regiment, party, company, squad",
+                    "examples" : ["機動隊 きどうたい riot police, riot squad (n)","自衛隊 じえいたい self-defence force, self-defense force, Japan Self-Defence Force, JSDF (n)","兵隊 へいたい soldier, sailor (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "階",
+                    "onyomi" : "カイ",
+                    "kunyomi" : "きざはし",
+                    "definition" : "storey, stair, counter for storeys of a building",
+                    "examples" : ["階 かい stories, storeys, counter for storeys and floors of a building (n, n-suf, counter)","階級 かいきゅう class, rank, grade (n)","階段 かいだん stairs, stairway, staircase (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "雪",
+                    "onyomi" : "セツ",
+                    "kunyomi" : "ゆき",
+                    "definition" : "snow",
+                    "examples" : ["初雪 はつゆき first snow (of season) (n)","吹雪 ふぶき snow storm (n)","積雪 せきせつ fallen snow (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "雲",
+                    "onyomi" : "ウン",
+                    "kunyomi" : "くも, -ぐも",
+                    "definition" : "cloud",
+                    "examples" : ["雲 くも cloud (n)","白雲 しらくも white clouds","八重雲 やえぐも layers of clouds"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "静",
+                    "onyomi" : "セイ, ジョウ",
+                    "kunyomi" : "しず-, しず.か, しず.まる, しず.める",
+                    "definition" : "quiet",
+                    "examples" : ["冷静 れいせい calm, composure, coolness, serenity (adj-na, n)","静粛 せいしゅく silent (adj-na, n)","安静 あんせい rest (adj-na, n)"]
                 }
             ],
     "Group 36" :
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "面",
+                    "onyomi" : "メン, ベン",
+                    "kunyomi" : "おも, おもて, つら",
+                    "definition" : "mask, face, features, surface",
+                    "examples" : ["一面 いちめん one face, one surface, the whole surface, one aspect, one side, (on) the other hand, one broad, flat object, front page (n, n, n-adv)","仮面 かめん mask, disguise (n)","外面 げめん outer surface, outward appearance, outside, exterior, outside, outer, outward, exterior, external (n, adj-no)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "順",
+                    "onyomi" : "ジュン",
                     "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "definition" : "obey, order, turn, right, docility, occasion",
+                    "examples" : ["手順 てじゅん process, procedure, sequence, protocol, instruction (n)","順 じゅん order, turn (adj-na, n, n-suf)","順調 じゅんちょう favourable, favorable, doing well, OK, all right (adj-na, n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "願",
+                    "onyomi" : "ガン",
+                    "kunyomi" : "ねが.う, -ねがい",
+                    "definition" : "petition, request, vow, wish, hope",
+                    "examples" : ["出願 しゅつがん application (n, vs)","祈願 きがん prayer (n, vs)","願う ねがう to desire, to wish, to hope, to beg, to request, to implore, to pray, to have something done for oneself (v5s, vt, auxiliary verb)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "類",
+                    "onyomi" : "ルイ",
+                    "kunyomi" : "たぐ.い",
+                    "definition" : "sort, kind, variety, class, genus",
+                    "examples" : ["種類 しゅるい variety, kind, type, category, counter for different sorts of things (n, counter)","人類 じんるい mankind, humanity (n)","同類 どうるい the same kind, accomplice (n)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "飛",
+                    "onyomi" : "ヒ",
+                    "kunyomi" : "と.ぶ, と.ばす, -と.ばす",
+                    "definition" : "fly, skip (pages), scatter",
+                    "examples" : ["飛行機 ひこうき aeroplane, airplane, aircraft (n)","飛行 ひこう aviation (n, vs)","飛ばす とばす to fly, to fire, to hurl, to skip over, to omit, to drop (eg stitch), to run or drive fast, to gallop, to spread a rumour (rumor), to tell a story, to remove, to get rid of, to transfer, to attack, to jeer at (v5s, vt)"]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "養",
+                    "onyomi" : "ヨウ, リョウ",
+                    "kunyomi" : "やしな.う",
+                    "definition" : "foster, bring up, rear, develop, nurture",
+                    "examples" : ["営養 えいよう nutrition, nourishment (n)","養う やしなう to rear, to maintain, to support (eg family), to cultivate (v5s, vt)","扶養 ふよう support, maintenance (n, vs)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "馬",
+                    "onyomi" : "バ",
+                    "kunyomi" : "うま, うま-, ま",
+                    "definition" : "horse",
+                    "examples" : ["競馬 けいば horse racing (n)","馬 うま horse, promoted bishop (shogi) (n)",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "鳴",
+                    "onyomi" : "メイ",
+                    "kunyomi" : "な.く, な.る, な.らす",
+                    "definition" : "chirp, cry, bark, sound, ring, echo, honk",
+                    "examples" : ["怒鳴る どなる to shout, to yell (v5r, intransitive verb)","悲鳴 ひめい shriek, scream (n, vs)","鳴らす ならす to ring, to sound, to chime, to beat, to snort (nose) (v5s, vt)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "麦",
+                    "onyomi" : "バク",
+                    "kunyomi" : "むぎ",
+                    "definition" : "barley, wheat",
+                    "examples" : ["小麦 こむぎ wheat (n)","蕎麦 そまむぎ buckwheat (Fagopyrum esculentum), soba (Japanese buckwheat noodles) (n)","麦 むぎ wheat, barley, oat (oats) (n)"]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "黄",
+                    "onyomi" : "コウ, オウ",
+                    "kunyomi" : "き, こ-",
+                    "definition" : "yellow",
+                    "examples" : ["黄色い きいろい yellow (adj)","黄葉 もみじ autumn colours, fall colors, leaves changing color (colour), leaves turning red, red leaves (n, vs, n)","黄昏 こうこん dusk, twilight (n)"]
                 }
             ],
     "Group 37" : 
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
-                },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
-                },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
-                },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
-                },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
-                },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
-                },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
-                },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
-                },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
-                },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
+                    "kanji" : "鼻",
+                    "onyomi" : "ビ",
+                    "kunyomi" : "はな",
+                    "definition" : "nose, snout",
+                    "examples" : ["耳鼻科 じびか otolaryngology, concerning the ear, nose, and throat (n)","鼻 はな nose (n)","目鼻 【めはな】 eyes and nose, looks, facial features, shape, form"]
                 }
             ]
     

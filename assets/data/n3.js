@@ -1606,7 +1606,6 @@ const N3 = {
                     "examples" : ["竹 たけ bamboo, middle (of a three-tier ranking system) (n)","笛竹 ふえたけ bamboo flute, bamboo for making flutes, wind and string instruments","竹林 チクリン bamboo thicket"]
                 }
             ],
-
     "Group 26" :
             [
                 {   

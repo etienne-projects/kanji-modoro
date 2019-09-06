@@ -525,3 +525,27 @@ footer a, footer a:hover {
 .hide {
     display: none;
 }
+
+
+/*-----------
+	  ALERT
+-------------*/
+
+#alert {
+    position: fixed;
+    margin: 150px auto;
+    max-width: 100%;
+}
+
+#close-alert {
+    float: right;
+    font-size: 30px;
+    font-weight: bold;
+    color: #78B354;
+    margin: 8px;
+    transition: 0.5s;
+}
+
+#close-alert:hoover {
+    color: rgba(93, 87, 107, 1);
+}

@@ -6,7 +6,12 @@
 // The PREVIOUS and NEXT buttons rotate through the kanji
 // FLASH CARD should flip on click (instead of hover)
 
-
+/*---------------------------
+	  ALERT BOX
+---------------------------*/
+document.querySelector('#close-alert').addEventListener('click', function(){
+    this.parentNode.setAttribute('class', 'hide');
+})
 
 /*---------------------------
 	  TIPS SECTION

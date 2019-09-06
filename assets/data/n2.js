@@ -959,155 +959,135 @@ const N2 = {
                     "examples" : ["","",""]
                 }
             ],
-   /* "Group 16" :
-    了 【リョウ】 complete; finish
-庁 【チョウ・テイ・やくしょ】 government office
-城 【ジョウ・セイ・しろ】 castle
-患 【カン・わずら.う】 afflicted; disease; suffer from; be ill
-層 【ソウ】 stratum; social class; layer; story; floor
-版 【ハン】 printing block; printing plate; edition; impression; label
-令 【レイ】 orders; ancient laws; command; decree
-角 【カク・かど・つの】 angle; corner; square; horn; antlers
-絡 【ラク・から.む・から.まる】 entwine; coil around; get caught in
-損 【ソン・そこ.なう・そこな.う・~そこ.なう・そこ.ねる・~そこ.ねる】 damage; loss; disadvantage; hurt; injure
+   "Group 16" :
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "了",
+                    "onyomi" : "リョウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "complete; finish",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "庁",
+                    "onyomi" : "チョウ・テイ",
+                    "kunyomi" : "やくしょ",
+                    "definition" : "government office",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "城",
+                    "onyomi" : "ジョウ・セイ",
+                    "kunyomi" : "しろ",
+                    "definition" : "castle",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "患",
+                    "onyomi" : "カン",
+                    "kunyomi" : "わずら.う",
+                    "definition" : "afflicted; disease; suffer from; be ill",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "層",
+                    "onyomi" : "ソウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "stratum; social class; layer; story; floor",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "版",
+                    "onyomi" : "ハン",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "printing block; printing plate; edition; impression; label",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "令",
+                    "onyomi" : "レイ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "orders; ancient laws; command; decree",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "角",
+                    "onyomi" : "カク",
+                    "kunyomi" : "かど・つの",
+                    "definition" : "angle; corner; square; horn; antlers",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "絡",
+                    "onyomi" : "ラク",
+                    "kunyomi" : "から.む・から.まる",
+                    "definition" : "entwine; coil around; get caught in",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "損",
+                    "onyomi" : "ソン",
+                    "kunyomi" : "そこ.なう・そこな.う・~そこ.なう・そこ.ねる・~そこ.ねる",
+                    "definition" : "damage; loss; disadvantage; hurt; injure",
                     "examples" : ["","",""]
                 }
             ],
-    "Group 17" : 
-    募 【ボ・つの.る】 recruit; campaign; gather (contributions); enlist; grow violent
-裏 【リ・うら】 back; amidst; in; reverse; inside; palm; sole; rear; lining; wrong side
-仏 【ブツ・フツ・ほとけ】 Buddha; the dead; France
-績 【セキ】 exploits; achievements; unreeling cocoons
-築 【チク・きず.く】 fabricate; build; construct
-貨 【カ・たから】 freight; goods; property
-混 【コン・ま.じる・~ま.じり・ま.ざる・ま.ぜる・こ.む】 mix; blend; confuse
-昇 【ショウ・のぼ.る】 rise up
-池 【チ・いけ】 pond; cistern; pool; reservoir
-血 【ケツ・ち】 blood
+     "Group 17" : 
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "募",
+                    "onyomi" : "ボ",
+                    "kunyomi" : "つの.る",
+                    "definition" : "recruit; campaign; gather (contributions); enlist; grow violent",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "裏",
+                    "onyomi" : "リ",
+                    "kunyomi" : "うら",
+                    "definition" : "back; amidst; in; reverse; inside; palm; sole; rear; lining; wrong side",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "仏",
+                    "onyomi" : "ブツ・フツ",
+                    "kunyomi" : "ほとけ",
+                    "definition" : "Buddha; the dead; France",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "績",
+                    "onyomi" : "セキ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "exploits; achievements; unreeling cocoons",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "築",
+                    "onyomi" : "チク",
+                    "kunyomi" : "きず.く",
+                    "definition" : "fabricate; build; construct",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "貨",
+                    "onyomi" : "カ",
+                    "kunyomi" : "たから",
+                    "definition" : "freight; goods; property",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "混",
+                    "onyomi" : "コン",
+                    "kunyomi" : "ま.じる・~ま.じり・ま.ざる・ま.ぜる・こ.む",
+                    "definition" : "mix; blend; confuse",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "昇",
+                    "onyomi" : "ショウ",
+                    "kunyomi" : "のぼ.る",
+                    "definition" : "rise up",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "池",
+                    "onyomi" : "チ",
+                    "kunyomi" : "いけ",
+                    "definition" : "pond; cistern; pool; reservoir",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "血",
+                    "onyomi" : "ケツ",
+                    "kunyomi" : "ち",
+                    "definition" : "blood",
                     "examples" : ["","",""]
                 }
             ],
-    "Group 18" :
+    /*"Group 18" :
     温 【オン・あたた.か・あたた.かい・あたた.まる・あたた.める・ぬく】 warm
 季 【キ】 seasons
 星 【セイ・ショウ・ほし・~ぼし】 star; spot; dot; mark

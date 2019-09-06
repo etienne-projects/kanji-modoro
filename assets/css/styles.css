@@ -532,7 +532,7 @@ footer a, footer a:hover {
 -------------*/
 
 #alert {
-    position: fixed;
+    position: absolute;
     margin: 150px auto;
     max-width: 100%;
 }

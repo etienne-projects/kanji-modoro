@@ -43,9 +43,9 @@ The following is a list of features used to create an easy-to-use design. Weeds 
 - [x] User can select a mode : Learning Mode or Flash Card Mode (default is set to Learning Mode)
 - [ ] **Need To Fix :** Refactor code!!! 
 - [ ] **Need To Fix :** Data!!!  
-    - [x] Entered data for N5-N3; some examples need further review for accuracy
-    - [ ] N2 and N1 data needs to be entered in
-    - [ ] Will use KanjiAlive API in next version for card data
+    - [x] Entered data for N5-N2; some examples need further review for accuracy
+    - [ ] N1 data needs to be entered in
+    - [ ] Will use API in next version for card data
 - [ ] **Need To Fix :** Flash Card Mode is not working on mobile
 - [ ] **Need To Fix :** Currently flash card is set to flip on hover for non mobile devices, and on click for mobile devices but it flips only one time and doesn't got back unless user clicks outside of the card
 - [ ] Create a development branch to push changes to

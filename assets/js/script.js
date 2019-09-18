@@ -310,3 +310,12 @@ function kanjiButtonSelected () {
     getExamples2[1].innerHTML = q[this.id].examples[1]
     getExamples3[1].innerHTML = q[this.id].examples[2]
 }
+
+
+
+// Toggle Flashcard
+const toggle = function(){
+   document.querySelector('#flashcard').classList.toggle('flashcard')
+}
+
+document.getElementById('flashcard').addEventListener('click', toggle)

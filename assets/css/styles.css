@@ -369,7 +369,7 @@ hr {
 /*--------------------------------
 	  FLASH CARD : Functionality
 ----------------------------------*/
-#card-container:hover #flashcard, #card-container.hover #flashcard {
+ .flashcard {
     transform : rotateY(180deg);
     } 
 
@@ -413,7 +413,6 @@ hr {
         #front {
             top: 0px;
         }
-
     }
 
     /* back side rotated to 180 deg to place at the back*/

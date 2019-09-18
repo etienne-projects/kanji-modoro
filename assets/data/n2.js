@@ -1087,1481 +1087,1266 @@ const N2 = {
                     "examples" : ["","",""]
                 }
             ],
-    /*"Group 18" :
-    温 【オン・あたた.か・あたた.かい・あたた.まる・あたた.める・ぬく】 warm
-季 【キ】 seasons
-星 【セイ・ショウ・ほし・~ぼし】 star; spot; dot; mark
-永 【エイ・なが.い】 eternity; long; lengthy
-著 【チョ・チャク・あらわ.す・いちじる.しい】 renowned; publish; write; remarkable; phenomenal; put on; don; wear; arrival; finish (race); counter for suits of clothing; literary work
-誌 【シ】 document; records
-庫 【コ・ク・くら】 warehouse; storehouse
-刊 【カン】 publish; carve; engrave
-像 【ゾウ】 statue; picture; image; figure; portrait
-香 【コウ・キョウ・か・かお.り・かお.る】 incense; smell; perfume
+    "Group 18" :
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "温",
+                    "onyomi" : "オン",
+                    "kunyomi" : "あたた.か・あたた.かい・あたた.まる・あたた.める・ぬく",
+                    "definition" : "warm",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "季",
+                    "onyomi" : "キ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "seasons",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "星",
+                    "onyomi" : "セイ・ショウ",
+                    "kunyomi" : "ほし・~ぼし",
+                    "definition" : "star; spot; dot; mark",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "永",
+                    "onyomi" : "エイ",
+                    "kunyomi" : "なが.い",
+                    "definition" : "eternity; long; lengthy",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "著",
+                    "onyomi" : "チョ・チャク",
+                    "kunyomi" : "あらわ.す・いちじる.しい",
+                    "definition" : "renowned; publish; write; remarkable; phenomenal; put on; don; wear; arrival; finish (race); counter for suits of clothing; literary work",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "誌",
+                    "onyomi" : "シ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "document; records",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "庫",
+                    "onyomi" : "コ・ク",
+                    "kunyomi" : "くら",
+                    "definition" : "warehouse; storehouse",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "刊",
+                    "onyomi" : "カン",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "publish; carve; engrave",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "像",
+                    "onyomi" : "ゾウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "statue; picture; image; figure; portrait",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "香",
+                    "onyomi" : "コウ・キョウ",
+                    "kunyomi" : "か・かお.り・かお.る",
+                    "definition" : "incense; smell; perfume",
                     "examples" : ["","",""]
                 }
             ],
     "Group 19" : 
-    坂 【ハン・さか】 slope; incline; hill
-底 【テイ・そこ】 bottom; sole; depth; bottom price; base; kind; sort
-布 【フ・ぬの】 linen; cloth; spread; distribute
-寺 【ジ・てら】 Buddhist temple
-宇 【ウ】 eaves; roof; house; heaven
-巨 【キョ】 gigantic; big; large; great
-震 【シン・ふる.う・ふる.える】 quake; shake; tremble; quiver; shiver
-希 【キ・ケ・まれ】 hope; beg; request; pray; beseech; Greece; dilute (acid); rare; few; phenomenal
-触 【ショク・ふ.れる・さわ.る・さわ】 contact; touch; feel; hit; proclaim; announce; conflict
-依 【イ・エ・よ.る】 reliant; depend on; consequently; therefore; due to
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "坂",
+                    "onyomi" : "ハン",
+                    "kunyomi" : "さか",
+                    "definition" : "slope; incline; hill",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "底",
+                    "onyomi" : "テイ",
+                    "kunyomi" : "そこ",
+                    "definition" : "bottom; sole; depth; bottom price; base; kind; sort",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "布",
+                    "onyomi" : "フ",
+                    "kunyomi" : "ぬの",
+                    "definition" : "linen; cloth; spread; distribute",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "寺",
+                    "onyomi" : "ジ",
+                    "kunyomi" : "てら",
+                    "definition" : "Buddhist temple",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "宇",
+                    "onyomi" : "ウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "eaves; roof; house; heaven",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "巨",
+                    "onyomi" : "キョ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "gigantic; big; large; great",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "震",
+                    "onyomi" : "シン",
+                    "kunyomi" : "ふる.う・ふる.える",
+                    "definition" : "quake; shake; tremble; quiver; shiver",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "希",
+                    "onyomi" : "キ・ケ",
+                    "kunyomi" : "まれ",
+                    "definition" : "hope; beg; request; pray; beseech; Greece; dilute (acid); rare; few; phenomenal",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "触",
+                    "onyomi" : "ショク",
+                    "kunyomi" : "ふ.れる・さわ.る・さわ",
+                    "definition" : "contact; touch; feel; hit; proclaim; announce; conflict",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "依",
+                    "onyomi" : "イ・エ",
+                    "kunyomi" : "よ.る",
+                    "definition" : "reliant; depend on; consequently; therefore; due to",
                     "examples" : ["","",""]
                 }
             ],
     "Group 20" :
-    籍 【セキ】 enroll; domiciliary register; membership
-汚 【オ・けが.す・けが.れる・けが.らわしい・よご.す・よご.れる・きたな.い】 dirty; pollute; disgrace; rape; defile
-枚 【マイ・バイ】 sheet of...; counter for flat thin objects or sheets
-複 【フク】 duplicate; double; compound; multiple
-郵 【ユウ】 mail; stagecoach stop
-仲 【チュウ・なか】 go-between; relationship
-栄 【エイ・ヨウ・さか.える・は.え・~ば.え・は.える・え】 flourish; prosperity; honor; glory; splendor
-札 【サツ・ふだ】 tag; paper money; counter for bonds; placard; bid
-板 【ハン・バン・いた】 plank; board; plate; stage
-骨 【コツ・ほね】 skeleton; bone; remains; frame
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "籍",
+                    "onyomi" : "セキ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "enroll; domiciliary register; membership",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "汚",
+                    "onyomi" : "オ",
+                    "kunyomi" : "けが.す・けが.れる・けが.らわしい・よご.す・よご.れる・きたな.い",
+                    "definition" : "dirty; pollute; disgrace; rape; defile",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "枚",
+                    "onyomi" : "マイ・バイ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "sheet of...; counter for flat thin objects or sheets",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "複",
+                    "onyomi" : "フク",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "duplicate; double; compound; multiple",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "郵",
+                    "onyomi" : "ユウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "mail; stagecoach stop",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "仲",
+                    "onyomi" : "チュウ",
+                    "kunyomi" : "なか",
+                    "definition" : "go-between; relationship",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "栄",
+                    "onyomi" : "エイ・ヨウ",
+                    "kunyomi" : "さか.える・は.え・~ば.え・は.える・え",
+                    "definition" : "flourish; prosperity; honor; glory; splendor",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "札",
+                    "onyomi" : "サツ",
+                    "kunyomi" : "ふだ",
+                    "definition" : "tag; paper money; counter for bonds; placard; bid",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "板",
+                    "onyomi" : "ハン・バン",
+                    "kunyomi" : "いた",
+                    "definition" : "plank; board; plate; stage",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "骨",
+                    "onyomi" : "コツ",
+                    "kunyomi" : "ほね",
+                    "definition" : "skeleton; bone; remains; frame",
                     "examples" : ["","",""]
                 }
             ],
     "Group 21" : 
-    傾 【ケイ・かたむ.く・かたむ.ける・かたぶ.く・かた.げる・かし.げる】 lean; incline; tilt; trend; wane; sink; ruin; bias
-届 【カイ・とど.ける・~とど.け・とど.く】 deliver; reach; arrive; report; notify; forward
-巻 【カン・ケン・ま.く・まき・ま.き】 scroll; volume; book; part; roll up; wind up; tie; coil; counter for texts (or book scrolls)
-燃 【ネン・も.える・も.やす・も.す】 burn; blaze; glow
-跡 【セキ・あと】 tracks; mark; print; impression
-包 【ホウ・つつ.む・くる.む】 wrap; pack up; cover; conceal
-駐 【チュウ】 stop-over; reside in; resident
-弱 【ジャク・よわ.い・よわ.る・よわ.まる・よわ.める】 weak; frail
-紹 【ショウ】 introduce; inherit; help
-雇 【コ・やと.う】 employ; hire
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "傾",
+                    "onyomi" : "ケイ",
+                    "kunyomi" : "かたむ.く・かたむ.ける・かたぶ.く・かた.げる・かし.げる",
+                    "definition" : "lean; incline; tilt; trend; wane; sink; ruin; bias",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "届",
+                    "onyomi" : "カイ",
+                    "kunyomi" : "とど.ける・~とど.け・とど.く",
+                    "definition" : "deliver; reach; arrive; report; notify; forward",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "巻",
+                    "onyomi" : "カン・ケン",
+                    "kunyomi" : "ま.く・まき・ま.き",
+                    "definition" : "scroll; volume; book; part; roll up; wind up; tie; coil; counter for texts (or book scrolls)",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "燃",
+                    "onyomi" : "ネン",
+                    "kunyomi" : "も.える・も.やす・も.す",
+                    "definition" : "burn; blaze; glow",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "跡",
+                    "onyomi" : "セキ",
+                    "kunyomi" : "あと",
+                    "definition" : "tracks; mark; print; impression",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "包",
+                    "onyomi" : "ホウ",
+                    "kunyomi" : "つつ.む・くる.む",
+                    "definition" : "wrap; pack up; cover; conceal",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "駐",
+                    "onyomi" : "チュウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "stop-over; reside in; resident",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "弱",
+                    "onyomi" : "ジャク",
+                    "kunyomi" : "よわ.い・よわ.る・よわ.まる・よわ.める",
+                    "definition" : "weak; frail",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "紹",
+                    "onyomi" : "ショウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "introduce; inherit; help",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "雇",
+                    "onyomi" : "コ",
+                    "kunyomi" : "やと.う",
+                    "definition" : "employ; hire",
                     "examples" : ["","",""]
                 }
             ],
     "Group 22" :
-    替 【タイ・か.える・か.え~・か.わる】 exchange; spare; substitute; per-
-預 【ヨ・あず.ける・あず.かる】 deposit; custody; leave with; entrust to
-焼 【ショウ・や.く・や.き・や.き~・~や.き・や.ける】 bake; burning
-簡 【カン・ケン・えら.ぶ・ふだ】 simplicity; brevity
-章 【ショウ】 badge; chapter; composition; poem; design
-臓 【ゾウ・はらわた】 entrails; viscera; bowels
-律 【リツ・リチ・レツ】 rhythm; law; regulation; gauge; control
-贈 【ゾウ・ソウ・おく.る】 presents; send; give to; award to; confer on; presenting something
-照 【ショウ・て.る・て.らす・て.れる】 illuminate; shine; compare; bashful
-薄 【ハク・うす.い・うす~・~うす・うす.める・うす.まる・うす.らぐ・うす.ら~・うす.れる・すすき】 dilute; thin; weak (tea); pampas grass
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "替",
+                    "onyomi" : "タイ",
+                    "kunyomi" : "か.える・か.え~・か.わる",
+                    "definition" : "exchange; spare; substitute; per-",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "預",
+                    "onyomi" : "ヨ",
+                    "kunyomi" : "あず.ける・あず.かる",
+                    "definition" : "deposit; custody; leave with; entrust to",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "焼",
+                    "onyomi" : "ショウ",
+                    "kunyomi" : "や.く・や.き・や.き~・~や.き・や.ける",
+                    "definition" : "bake; burning",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "簡",
+                    "onyomi" : "カン・ケン",
+                    "kunyomi" : "えら.ぶ・ふだ",
+                    "definition" : "simplicity; brevity",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "章",
+                    "onyomi" : "ショウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "badge; chapter; composition; poem; design",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "臓",
+                    "onyomi" : "ゾウ",
+                    "kunyomi" : "はらわた",
+                    "definition" : "entrails; viscera; bowels",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "律",
+                    "onyomi" : "リツ・リチ・レツ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "rhythm; law; regulation; gauge; control",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "贈",
+                    "onyomi" : "ゾウ・ソウ",
+                    "kunyomi" : "おく.る",
+                    "definition" : "presents; send; give to; award to; confer on; presenting something",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "照",
+                    "onyomi" : "ショウ",
+                    "kunyomi" : "て.る・て.らす・て.れる",
+                    "definition" : "illuminate; shine; compare; bashful",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "薄",
+                    "onyomi" : "ハク",
+                    "kunyomi" : "うす.い・うす~・~うす・うす.める・うす.まる・うす.らぐ・うす.ら~・うす.れる・すすき",
+                    "definition" : "dilute; thin; weak (tea); pampas grass",
                     "examples" : ["","",""]
                 }
             ],
     "Group 23" : 
-    群 【グン・む.れる・む.れ・むら・むら.がる】 flock; group; crowd; herd; swarm; cluster
-秒 【ビョウ】 second (1/60 minute)
-奥 【オウ・おく・おく.まる・くま】 heart; interior
-詰 【キツ・キチ・つ.める・つ.め・~づ.め・つ.まる・つ.む】 packed; close; pressed; reprove; rebuke; blame
-双 【ソウ・ふた・たぐい・ならぶ・ふたつ】 pair; set; comparison; counter for pairs
-刺 【シ・さ.す・さ.さる・さ.し・さし・とげ】 thorn; pierce; stab; prick; sting; calling card
-純 【ジュン】 genuine; purity; innocence; net (profit)
-翌 【ヨク】 the following; next
-快 【カイ・こころよ.い】 cheerful; pleasant; agreeable; comfortable
-片 【ヘン・かた~・かた】 one-sided; leaf; sheet; right-side kata radical (no. 91)
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "群",
+                    "onyomi" : "グン",
+                    "kunyomi" : "む.れる・む.れ・むら・むら.がる",
+                    "definition" : "flock; group; crowd; herd; swarm; cluster",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "秒",
+                    "onyomi" : "ビョウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "second (1/60 minute)",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "奥",
+                    "onyomi" : "オウ",
+                    "kunyomi" : "おく・おく.まる・くま",
+                    "definition" : "heart; interior",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "詰",
+                    "onyomi" : "キツ・キチ",
+                    "kunyomi" : "つ.める・つ.め・~づ.め・つ.まる・つ.む",
+                    "definition" : "packed; close; pressed; reprove; rebuke; blame",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "双",
+                    "onyomi" : "ソウ",
+                    "kunyomi" : "ふた・たぐい・ならぶ・ふたつ",
+                    "definition" : "pair; set; comparison; counter for pairs",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "刺",
+                    "onyomi" : "シ",
+                    "kunyomi" : "さ.す・さ.さる・さ.し・さし・とげ",
+                    "definition" : "thorn; pierce; stab; prick; sting; calling card",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "純",
+                    "onyomi" : "ジュン",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "genuine; purity; innocence; net (profit)",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "翌",
+                    "onyomi" : "ヨク",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "the following; next",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "快",
+                    "onyomi" : "カイ",
+                    "kunyomi" : "こころよ.い",
+                    "definition" : "cheerful; pleasant; agreeable; comfortable",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "片",
+                    "onyomi" : "ヘン",
+                    "kunyomi" : "かた~・かた",
+                    "definition" : "one-sided; leaf; sheet; right-side kata radical (no. 91)",
                     "examples" : ["","",""]
                 }
             ],
     "Group 24" :
-    敬 【ケイ・キョウ・うやま.う】 awe; respect; honor; revere
-悩 【ノウ・なや.む・なや.ます・なや.ましい・なやみ】 trouble; worry; in pain; distress; illness
-泉 【セン・いずみ】 spring; fountain
-皮 【ヒ・かわ】 pelt; skin; hide; leather; skin radical (no. 107)
-漁 【ギョ・リョウ・あさ.る】 fishing; fishery
-荒 【コウ・あら.い・あら~・あ.れる・あ.らす・~あ.らし・すさ.む】 laid waste; rough; rude; wild
-貯 【チョ・た.める・たくわ.える】 savings; store; lay in; keep; wear mustache
-硬 【コウ・かた.い】 stiff; hard
-埋 【マイ・う.める・う.まる・う.もれる・うず.める・うず.まる・い.ける】 bury; be filled up; embedded
-柱 【チュウ・はしら】 pillar; post; cylinder; support
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "敬",
+                    "onyomi" : "ケイ・キョウ",
+                    "kunyomi" : "うやま.う",
+                    "definition" : "awe; respect; honor; revere",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "悩",
+                    "onyomi" : "ノウ",
+                    "kunyomi" : "なや.む・なや.ます・なや.ましい・なやみ",
+                    "definition" : "trouble; worry; in pain; distress; illness",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "泉",
+                    "onyomi" : "セン",
+                    "kunyomi" : "いずみ",
+                    "definition" : "spring; fountain",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "皮",
+                    "onyomi" : "ヒ",
+                    "kunyomi" : "かわ",
+                    "definition" : "pelt; skin; hide; leather; skin radical (no. 107)",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "漁",
+                    "onyomi" : "ギョ・リョウ",
+                    "kunyomi" : "あさ.る",
+                    "definition" : "fishing; fishery",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "荒",
+                    "onyomi" : "コウ",
+                    "kunyomi" : "あら.い・あら~・あ.れる・あ.らす・~あ.らし・すさ.む",
+                    "definition" : "laid waste; rough; rude; wild",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "貯",
+                    "onyomi" : "チョ",
+                    "kunyomi" : "た.める・たくわ.える",
+                    "definition" : "savings; store; lay in; keep; wear mustache",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "硬",
+                    "onyomi" : "コウ",
+                    "kunyomi" : "かた.い",
+                    "definition" : "stiff; hard",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "埋",
+                    "onyomi" : "マイ",
+                    "kunyomi" : "う.める・う.まる・う.もれる・うず.める・うず.まる・い.ける",
+                    "definition" : "bury; be filled up; embedded",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "柱",
+                    "onyomi" : "チュウ",
+                    "kunyomi" : "はしら",
+                    "definition" : "pillar; post; cylinder; support",
                     "examples" : ["","",""]
                 }
             ],
     "Group 25" : 
-    祭 【サイ・まつ.る・まつ.り・まつり】 ritual; offer prayers; celebrate; deify; enshrine; worship
-袋 【タイ・ダイ・ふくろ】 sack; bag; pouch
-筆 【ヒツ・ふで】 writing brush; writing; painting brush; handwriting
-訓 【クン・キン・おし.える・よ.む・くん.ずる】 instruction; Japanese character reading; explanation; read
-浴 【ヨク・あ.びる・あ.びせる】 bathe; be favored with; bask in
-童 【ドウ・わらべ】 juvenile; child
-宝 【ホウ・たから】 treasure; wealth; valuables
-封 【フウ・ホウ】 seal; closing
-胸 【キョウ・むね・むな~】 bosom; breast; chest; heart; feelings
-砂 【サ・シャ・すな】 sand
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "祭",
+                    "onyomi" : "サイ",
+                    "kunyomi" : "まつ.る・まつ.り・まつり",
+                    "definition" : "ritual; offer prayers; celebrate; deify; enshrine; worship",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "袋",
+                    "onyomi" : "タイ・ダイ",
+                    "kunyomi" : "ふくろ",
+                    "definition" : "sack; bag; pouch",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "筆",
+                    "onyomi" : "ヒツ",
+                    "kunyomi" : "ふで",
+                    "definition" : "writing brush; writing; painting brush; handwriting",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "訓",
+                    "onyomi" : "クン・キン",
+                    "kunyomi" : "おし.える・よ.む・くん.ずる",
+                    "definition" : "instruction; Japanese character reading; explanation; read",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "浴",
+                    "onyomi" : "ヨク",
+                    "kunyomi" : "あ.びる・あ.びせる",
+                    "definition" : "bathe; be favored with; bask in",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "童",
+                    "onyomi" : "ドウ",
+                    "kunyomi" : "わらべ",
+                    "definition" : "juvenile; child",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "宝",
+                    "onyomi" : "ホウ",
+                    "kunyomi" : "たから",
+                    "definition" : "treasure; wealth; valuables",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "封",
+                    "onyomi" : "フウ・ホウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "seal; closing",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "胸",
+                    "onyomi" : "キョウ",
+                    "kunyomi" : "むね・むな~",
+                    "definition" : "bosom; breast; chest; heart; feelings",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "砂",
+                    "onyomi" : "サ・シャ",
+                    "kunyomi" : "すな",
+                    "definition" : "sand",
                     "examples" : ["","",""]
                 }
             ],
     "Group 26" :
-    塩 【エン・しお】 salt
-賢 【ケン・かしこ.い】 intelligent; wise; wisdom; cleverness
-腕 【ワン・うで】 arm; ability; talent
-兆 【チョウ・きざ.す・きざ.し】 portent; 10**12; trillion; sign; omen; symptoms
-床 【ショウ・とこ・ゆか】 bed; counter for beds; floor; padding; tatami
-毛 【モウ・け】 fur; hair; feather; down
-緑 【リョク・ロク・みどり】 green
-尊 【ソン・たっと.い・とうと.い・たっと.ぶ・とうと.ぶ】 revered; valuable; precious; noble; exalted
-祝 【シュク・シュウ・いわ.う】 celebrate; congratulate
-柔 【ジュウ・ニュウ・やわ.らか・やわ.らかい・やわ・やわ.ら】 tender; weakness; gentleness; softness
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "塩",
+                    "onyomi" : "エン",
+                    "kunyomi" : "しお",
+                    "definition" : "salt",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "賢",
+                    "onyomi" : "ケン",
+                    "kunyomi" : "かしこ.い",
+                    "definition" : "intelligent; wise; wisdom; cleverness",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "腕",
+                    "onyomi" : "ワン",
+                    "kunyomi" : "うで",
+                    "definition" : "arm; ability; talent",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "兆",
+                    "onyomi" : "チョウ",
+                    "kunyomi" : "きざ.す・きざ.し",
+                    "definition" : "portent; trillion; sign; omen; symptoms",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "床",
+                    "onyomi" : "ショウ",
+                    "kunyomi" : "とこ・ゆか",
+                    "definition" : "bed; counter for beds; floor; padding; tatami",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "毛",
+                    "onyomi" : "モウ",
+                    "kunyomi" : "け",
+                    "definition" : "fur; hair; feather; down",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "緑",
+                    "onyomi" : "リョク・ロク",
+                    "kunyomi" : "みどり",
+                    "definition" : "green",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "尊",
+                    "onyomi" : "ソン",
+                    "kunyomi" : "たっと.い・とうと.い・たっと.ぶ・とうと.ぶ",
+                    "definition" : "revered; valuable; precious; noble; exalted",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "祝",
+                    "onyomi" : "シュク・シュウ",
+                    "kunyomi" : "いわ.う",
+                    "definition" : "celebrate; congratulate",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "柔",
+                    "onyomi" : "ジュウ・ニュウ",
+                    "kunyomi" : "やわ.らか・やわ.らかい・やわ・やわ.ら",
+                    "definition" : "tender; weakness; gentleness; softness",
                     "examples" : ["","",""]
                 }
             ],
     "Group 27" : 
-    殿 【デン・テン・との・~どの】 Mr.; hall; mansion; palace; temple; lord
-濃 【ノウ・こ.い】 concentrated; thick; dark; undiluted
-液 【エキ】 fluid; liquid; juice; sap; secretion
-衣 【イ・エ・ころも・きぬ・~ぎ】 garment; clothes; dressing
-肩 【ケン・かた】 shoulder
-零 【レイ・ぜろ・こぼ.す・こぼ.れる】 zero; spill; overflow; nothing; cipher
-幼 【ヨウ・おさな.い】 infancy; childhood
-荷 【カ・に】 baggage; shoulder-pole load; bear (a burden); shoulder (a gun); load; cargo; freight
-泊 【ハク・と.まる・と.める】 overnight stay; put up at; ride at anchor
-黄 【コウ・オウ・き・こ~】 yellow
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "殿",
+                    "onyomi" : "デン・テン",
+                    "kunyomi" : "との・~どの",
+                    "definition" : "Mr.; hall; mansion; palace; temple; lord",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "濃",
+                    "onyomi" : "ノウ",
+                    "kunyomi" : "こ.い",
+                    "definition" : "concentrated; thick; dark; undiluted",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "液",
+                    "onyomi" : "エキ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "fluid; liquid; juice; sap; secretion",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "衣",
+                    "onyomi" : "イ・エ",
+                    "kunyomi" : "ころも・きぬ・~ぎ",
+                    "definition" : "garment; clothes; dressing",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "肩",
+                    "onyomi" : "ケン",
+                    "kunyomi" : "かた",
+                    "definition" : "shoulder",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "零",
+                    "onyomi" : "レイ",
+                    "kunyomi" : "ぜろ・こぼ.す・こぼ.れる",
+                    "definition" : "zero; spill; overflow; nothing; cipher",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "幼",
+                    "onyomi" : "ヨウ",
+                    "kunyomi" : "おさな.い",
+                    "definition" : "infancy; childhood",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "荷",
+                    "onyomi" : "カ",
+                    "kunyomi" : "に",
+                    "definition" : "baggage; shoulder-pole load; bear (a burden); shoulder (a gun); load; cargo; freight",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "泊",
+                    "onyomi" : "ハク",
+                    "kunyomi" : "と.まる・と.める",
+                    "definition" : "overnight stay; put up at; ride at anchor",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "黄",
+                    "onyomi" : "コウ・オウ",
+                    "kunyomi" : "き・こ~",
+                    "definition" : "yellow",
                     "examples" : ["","",""]
                 }
             ],
     "Group 28" :
-    甘 【カン・あま.い・あま.える・あま.やかす・うま.い】 sweet; coax; pamper; be content; sugary
-臣 【シン・ジン】 retainer; subject
-浅 【セン・あさ.い】 shallow; superficial; frivolous; wretched; shameful
-掃 【ソウ・シュ・は.く】 sweep; brush
-雲 【ウン・くも・~ぐも】 cloud
-掘 【クツ・ほ.る】 dig; delve; excavate
-捨 【シャ・す.てる】 discard; throw away; abandon; resign; reject; sacrifice
-軟 【ナン・やわ.らか・やわ.らかい】 soft
-沈 【チン・ジン・しず.む・しず.める】 sink; be submerged; subside; be depressed; aloes
-凍 【トウ・こお.る・こご.える・こご.る・い.てる・し.みる】 frozen; congeal; refrigerate
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "甘",
+                    "onyomi" : "カン",
+                    "kunyomi" : "あま.い・あま.える・あま.やかす・うま.い",
+                    "definition" : "sweet; coax; pamper; be content; sugary",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "臣",
+                    "onyomi" : "シン・ジン",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "retainer; subject",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "浅",
+                    "onyomi" : "セン",
+                    "kunyomi" : "あさ.い",
+                    "definition" : "shallow; superficial; frivolous; wretched; shameful",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "掃",
+                    "onyomi" : "ソウ・シュ",
+                    "kunyomi" : "は.く",
+                    "definition" : "sweep; brush",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "雲",
+                    "onyomi" : "ウン",
+                    "kunyomi" : "くも・~ぐも",
+                    "definition" : "cloud",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "掘",
+                    "onyomi" : "クツ",
+                    "kunyomi" : "ほ.る",
+                    "definition" : "dig; delve; excavate",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "捨",
+                    "onyomi" : "シャ",
+                    "kunyomi" : "す.てる",
+                    "definition" : "discard; throw away; abandon; resign; reject; sacrifice",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "軟",
+                    "onyomi" : "ナン",
+                    "kunyomi" : "やわ.らか・やわ.らかい",
+                    "definition" : "soft",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "沈",
+                    "onyomi" : "チン・ジン",
+                    "kunyomi" : "しず.む・しず.める",
+                    "definition" : "sink; be submerged; subside; be depressed; aloes",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "凍",
+                    "onyomi" : "トウ",
+                    "kunyomi" : "こお.る・こご.える・こご.る・い.てる・し.みる",
+                    "definition" : "frozen; congeal; refrigerate",
                     "examples" : ["","",""]
                 }
             ],
     "Group 29" : 
-    乳 【ニュウ・ちち・ち】 milk; breasts
-恋 【レン・こ.う・こい・こい.しい】 romance; in love; yearn for; miss; darling
-紅 【コウ・ク・べに・くれない・あか.い】 crimson; deep red
-郊 【コウ】 outskirts; suburbs; rural area
-腰 【ヨウ・こし】 loins; hips; waist; low wainscoting
-炭 【タン・すみ】 charcoal; coal
-踊 【ヨウ・おど.る】 jump; dance; leap; skip
-冊 【サツ・サク・ふみ】 tome; counter for books; volume
-勇 【ユウ・いさ.む】 courage; cheer up; be in high spirits; bravery; heroism
-械 【カイ・かせ】 contraption; fetter; machine; instrument
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "乳",
+                    "onyomi" : "ニュウ",
+                    "kunyomi" : "ちち・ち",
+                    "definition" : "milk; breasts",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "恋",
+                    "onyomi" : "レン",
+                    "kunyomi" : "こ.う・こい・こい.しい",
+                    "definition" : "romance; in love; yearn for; miss; darling",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "紅",
+                    "onyomi" : "コウ・ク",
+                    "kunyomi" : "べに・くれない・あか.い",
+                    "definition" : "crimson; deep red",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "郊",
+                    "onyomi" : "コウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "outskirts; suburbs; rural area",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "腰",
+                    "onyomi" : "ヨウ",
+                    "kunyomi" : "こし",
+                    "definition" : "loins; hips; waist; low wainscoting",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "炭",
+                    "onyomi" : "タン",
+                    "kunyomi" : "すみ",
+                    "definition" : "charcoal; coal",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "踊",
+                    "onyomi" : "ヨウ",
+                    "kunyomi" : "おど.る",
+                    "definition" : "jump; dance; leap; skip",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "冊",
+                    "onyomi" : "サツ・サク",
+                    "kunyomi" : "ふみ",
+                    "definition" : "tome; counter for books; volume",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "勇",
+                    "onyomi" : "ユウ",
+                    "kunyomi" : "いさ.む",
+                    "definition" : "courage; cheer up; be in high spirits; bravery; heroism",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "械",
+                    "onyomi" : "カイ",
+                    "kunyomi" : "かせ",
+                    "definition" : "contraption; fetter; machine; instrument",
                     "examples" : ["","",""]
                 }
             ],
     "Group 30" :
-    菜 【サイ・な】 vegetable; side dish; greens
-珍 【チン・めずら.しい・たから】 rare; curious; strange
-卵 【ラン・たまご】 egg; ovum; spawn; roe
-湖 【コ・みずうみ】 lake
-喫 【キツ・の.む】 consume; eat; drink; smoke; receive (a blow)
-干 【カン・ほ.す・ほ.し~・~ぼ.し・ひ.る】 dry; parch; ebb; recede; interfere; intercede
-虫 【チュウ・キ・むし】 insect; bug; temper
-刷 【サツ・す.る・~ず.り・~ずり・は.く】 printing; print; brush
-湯 【トウ・ゆ】 hot water; bath; hot spring
-溶 【ヨウ・と.ける・と.かす・と.く】 melt; dissolve; thaw
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "菜",
+                    "onyomi" : "サイ",
+                    "kunyomi" : "な",
+                    "definition" : "vegetable; side dish; greens",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "珍",
+                    "onyomi" : "チン",
+                    "kunyomi" : "めずら.しい・たから",
+                    "definition" : "rare; curious; strange",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "卵",
+                    "onyomi" : "ラン",
+                    "kunyomi" : "たまご",
+                    "definition" : "egg; ovum; spawn; roe",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "湖",
+                    "onyomi" : "コ",
+                    "kunyomi" : "みずうみ",
+                    "definition" : "lake",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "喫",
+                    "onyomi" : "キツ",
+                    "kunyomi" : "の.む",
+                    "definition" : "consume; eat; drink; smoke; receive (a blow)",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "干",
+                    "onyomi" : "カン",
+                    "kunyomi" : "ほ.す・ほ.し~・~ぼ.し・ひ.る",
+                    "definition" : "dry; parch; ebb; recede; interfere; intercede",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "虫",
+                    "onyomi" : "チュウ・キ",
+                    "kunyomi" : "むし",
+                    "definition" : "insect; bug; temper",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "刷",
+                    "onyomi" : "サツ",
+                    "kunyomi" : "す.る・~ず.り・~ずり・は.く",
+                    "definition" : "printing; print; brush",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "湯",
+                    "onyomi" : "トウ",
+                    "kunyomi" : "ゆ",
+                    "definition" : "hot water; bath; hot spring",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "溶",
+                    "onyomi" : "ヨウ",
+                    "kunyomi" : "と.ける・と.かす・と.く",
+                    "definition" : "melt; dissolve; thaw",
                     "examples" : ["","",""]
                 }
             ],
     "Group 31" : 
-    鉱 【コウ・あらがね】 mineral; ore
-涙 【ルイ・レイ・なみだ】 tears; sympathy
-匹 【ヒツ・ひき】 equal; head; counter for small animals; roll of cloth
-孫 【ソン・まご】 grandchild; descendants
-鋭 【エイ・するど.い】 pointed; sharpness; edge; weapon; sharp; violent
-枝 【シ・えだ】 bough; branch; twig; limb; counter for branches
-塗 【ト・ぬ.る・ぬ.り・まみ.れる】 paint; plaster; daub; smear; coating
-軒 【ケン・のき】 flats; counter for houses; eaves
-毒 【ドク】 poison; virus; venom; germ; harm; injury; spite
-叫 【キョウ・さけ.ぶ】 shout; exclaim; yell
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "鉱",
+                    "onyomi" : "コウ",
+                    "kunyomi" : "あらがね",
+                    "definition" : "mineral; ore",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "涙",
+                    "onyomi" : "ルイ・レイ",
+                    "kunyomi" : "なみだ",
+                    "definition" : "tears; sympathy",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "匹",
+                    "onyomi" : "ヒツ",
+                    "kunyomi" : "ひき",
+                    "definition" : "equal; head; counter for small animals; roll of cloth",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "孫",
+                    "onyomi" : "ソン",
+                    "kunyomi" : "まご",
+                    "definition" : "grandchild; descendants",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "鋭",
+                    "onyomi" : "エイ",
+                    "kunyomi" : "するど.い",
+                    "definition" : "pointed; sharpness; edge; weapon; sharp; violent",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "枝",
+                    "onyomi" : "シ",
+                    "kunyomi" : "えだ",
+                    "definition" : "bough; branch; twig; limb; counter for branches",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "塗",
+                    "onyomi" : "ト",
+                    "kunyomi" : "ぬ.る・ぬ.り・まみ.れる",
+                    "definition" : "paint; plaster; daub; smear; coating",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "軒",
+                    "onyomi" : "ケン",
+                    "kunyomi" : "のき",
+                    "definition" : "flats; counter for houses; eaves",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "毒",
+                    "onyomi" : "ドク",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "poison; virus; venom; germ; harm; injury; spite",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "叫",
+                    "onyomi" : "キョウ",
+                    "kunyomi" : "さけ.ぶ",
+                    "definition" : "shout; exclaim; yell",
                     "examples" : ["","",""]
                 }
             ],
     "Group 32" :
-    拝 【ハイ・おが.む・おろが.む】 worship; adore; pray to
-氷 【ヒョウ・こおり・ひ・こお.る】 icicle; ice; hail; freeze; congeal
-乾 【カン・ケン・かわ.く・かわ.かす・ほ.す・ひ.る・いぬい】 drought; dry; dessicate; drink up; heaven; emperor
-棒 【ボウ】 rod; stick; cane; pole; club; line
-祈 【キ・いの.る】 pray; wish
-拾 【シュウ・ジュウ・ひろ.う】 pick up; gather; find; go on foot; ten
-粉 【フン・デシメートル・こ・こな】 flour; powder; dust
-糸 【シ・いと】 thread
-綿 【メン・わた】 cotton
-汗 【カン・あせ】 sweat; perspire
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "拝",
+                    "onyomi" : "ハイ",
+                    "kunyomi" : "おが.む・おろが.む",
+                    "definition" : "worship; adore; pray to",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "氷",
+                    "onyomi" : "ヒョウ",
+                    "kunyomi" : "こおり・ひ・こお.る",
+                    "definition" : "icicle; ice; hail; freeze; congeal",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "乾",
+                    "onyomi" : "カン・ケン",
+                    "kunyomi" : "かわ.く・かわ.かす・ほ.す・ひ.る・いぬい",
+                    "definition" : "drought; dry; dessicate; drink up; heaven; emperor",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "棒",
+                    "onyomi" : "ボウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "rod; stick; cane; pole; club; line",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "祈",
+                    "onyomi" : "キ",
+                    "kunyomi" : "いの.る",
+                    "definition" : "pray; wish",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "拾",
+                    "onyomi" : "シュウ・ジュウ",
+                    "kunyomi" : "ひろ.う",
+                    "definition" : "pick up; gather; find; go on foot; ten",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "粉",
+                    "onyomi" : "フン・デシメートル",
+                    "kunyomi" : "こ・こな",
+                    "definition" : "flour; powder; dust",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "糸",
+                    "onyomi" : "シ",
+                    "kunyomi" : "いと",
+                    "definition" : "thread",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "綿",
+                    "onyomi" : "メン",
+                    "kunyomi" : "わた",
+                    "definition" : "cotton",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "汗",
+                    "onyomi" : "カン",
+                    "kunyomi" : "あせ",
+                    "definition" : "sweat; perspire",
                     "examples" : ["","",""]
                 }
             ],
     "Group 33" : 
-    銅 【ドウ・あかがね】 copper
-湿 【シツ・シュウ・しめ.る・しめ.す・うるお.う・うるお.す】 damp; wet; moist
-瓶 【ビン・かめ】 bottle; vial; jar; jug; vat; urn
-咲 【ショウ・さ.く・~ざき】 blossom; bloom
-召 【ショウ・め.す】 seduce; call; send for; wear; put on; ride in; buy; eat; drink; catch (cold)
-缶 【カン・かま】 tin can; container; jar radical (no. 121)
-隻 【セキ】 vessels; counter for ships; fish; birds; arrows; one of a pair
-脂 【シ・あぶら】 fat; grease; tallow; lard; rosin; gum; tar
-蒸 【ジョウ・セイ・む.す・む.れる・む.らす】 steam; heat; sultry; foment; get musty
-肌 【キ・はだ】 texture; skin; body; grain
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "銅",
+                    "onyomi" : "ドウ",
+                    "kunyomi" : "あかがね",
+                    "definition" : "copper",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "湿",
+                    "onyomi" : "シツ・シュウ",
+                    "kunyomi" : "しめ.る・しめ.す・うるお.う・うるお.す",
+                    "definition" : "damp; wet; moist",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "瓶",
+                    "onyomi" : "ビン",
+                    "kunyomi" : "かめ",
+                    "definition" : "bottle; vial; jar; jug; vat; urn",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "咲",
+                    "onyomi" : "ショウ",
+                    "kunyomi" : "さ.く・~ざき",
+                    "definition" : "blossom; bloom",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "召",
+                    "onyomi" : "ショウ",
+                    "kunyomi" : "め.す",
+                    "definition" : "seduce; call; send for; wear; put on; ride in; buy; eat; drink; catch (cold)",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "缶",
+                    "onyomi" : "カン",
+                    "kunyomi" : "かま",
+                    "definition" : "tin can; container; jar radical (no. 121)",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "隻",
+                    "onyomi" : "セキ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "vessels; counter for ships; fish; birds; arrows; one of a pair",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "脂",
+                    "onyomi" : "シ",
+                    "kunyomi" : "あぶら",
+                    "definition" : "fat; grease; tallow; lard; rosin; gum; tar",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "蒸",
+                    "onyomi" : "ジョウ・セイ",
+                    "kunyomi" : "む.す・む.れる・む.らす",
+                    "definition" : "steam; heat; sultry; foment; get musty",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "肌",
+                    "onyomi" : "キ",
+                    "kunyomi" : "はだ",
+                    "definition" : "texture; skin; body; grain",
                     "examples" : ["","",""]
                 }
             ],
     "Group 34" :
-    耕 【コウ・たがや.す】 till; plow; cultivate
-鈍 【ドン・にぶ.い・にぶ.る・にぶ~・なま.る・なまく.ら】 dull; slow; foolish; blunt
-泥 【デイ・ナイ・デ・ニ・どろ・なず.む】 mud; mire; adhere to; be attached to
-隅 【グウ・すみ】 corner; nook
-灯 【トウ・ひ・ほ~・ともしび・とも.す・あかり】 lamp; a light; light; counter for lights
-辛 【シン・から.い・つら.い・~づら.い・かのと】 spicy; bitter; hot; acrid
-磨 【マ・みが.く・す.る】 grind; polish; scour; improve; brush (teeth)
-麦 【バク・むぎ】 barley; wheat
-姓 【セイ・ショウ】 surname
-筒 【トウ・つつ】 cylinder; pipe; tube; gun barrel; sleeve
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "耕",
+                    "onyomi" : "コウ",
+                    "kunyomi" : "たがや.す",
+                    "definition" : "till; plow; cultivate",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "鈍",
+                    "onyomi" : "ドン",
+                    "kunyomi" : "にぶ.い・にぶ.る・にぶ~・なま.る・なまく.ら",
+                    "definition" : "dull; slow; foolish; blunt",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "泥",
+                    "onyomi" : "デイ・ナイ・デ・ニ",
+                    "kunyomi" : "どろ・なず.む",
+                    "definition" : "mud; mire; adhere to; be attached to",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "隅",
+                    "onyomi" : "グウ",
+                    "kunyomi" : "すみ",
+                    "definition" : "corner; nook",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "灯",
+                    "onyomi" : "トウ",
+                    "kunyomi" : "ひ・ほ~・ともしび・とも.す・あかり",
+                    "definition" : "lamp; a light; light; counter for lights",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "辛",
+                    "onyomi" : "シン",
+                    "kunyomi" : "から.い・つら.い・~づら.い・かのと",
+                    "definition" : "spicy; bitter; hot; acrid",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "磨",
+                    "onyomi" : "マ",
+                    "kunyomi" : "みが.く・す.る",
+                    "definition" : "grind; polish; scour; improve; brush (teeth)",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "麦",
+                    "onyomi" : "バク",
+                    "kunyomi" : "むぎ",
+                    "definition" : "barley; wheat",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "姓",
+                    "onyomi" : "セイ・ショウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "surname",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "筒",
+                    "onyomi" : "トウ",
+                    "kunyomi" : "つつ",
+                    "definition" : "cylinder; pipe; tube; gun barrel; sleeve",
                     "examples" : ["","",""]
                 }
             ],
     "Group 35" : 
-    鼻 【ビ・はな】 nose; snout
-粒 【リュウ・つぶ】 grains; drop; counter for tiny particles
-詞 【シ・ことば】 part of speech; words; poetry
-胃 【イ】 stomach; paunch; crop; craw
-畳 【ジョウ・チョウ・たた.む・たたみ・かさ.なる】 tatami mat; counter for tatami mats; fold; shut up; do away with
-膚 【フ・はだ】 skin; body; grain; texture; disposition
-机 【キ・つくえ】 desk; table
-濯 【タク・すす.ぐ・ゆす.ぐ】 laundry; wash; pour on; rinse
-塔 【トウ】 pagoda; tower; steeple
-灰 【カイ・はい】 ashes; puckery juice; cremate
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "鼻",
+                    "onyomi" : "ビ",
+                    "kunyomi" : "はな",
+                    "definition" : "nose; snout",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "粒",
+                    "onyomi" : "リュウ",
+                    "kunyomi" : "つぶ",
+                    "definition" : "grains; drop; counter for tiny particles",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "詞",
+                    "onyomi" : "シ",
+                    "kunyomi" : "ことば",
+                    "definition" : "part of speech; words; poetry",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "胃",
+                    "onyomi" : "イ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "stomach; paunch; crop; craw",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "畳",
+                    "onyomi" : "ジョウ・チョウ",
+                    "kunyomi" : "たた.む・たたみ・かさ.なる",
+                    "definition" : "tatami mat; counter for tatami mats; fold; shut up; do away with",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "膚",
+                    "onyomi" : "フ",
+                    "kunyomi" : "はだ",
+                    "definition" : "skin; body; grain; texture; disposition",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "机",
+                    "onyomi" : "キ",
+                    "kunyomi" : "つくえ",
+                    "definition" : "desk; table",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "濯",
+                    "onyomi" : "タク",
+                    "kunyomi" : "すす.ぐ・ゆす.ぐ",
+                    "definition" : "laundry; wash; pour on; rinse",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "塔",
+                    "onyomi" : "トウ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "pagoda; tower; steeple",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "灰",
+                    "onyomi" : "カイ",
+                    "kunyomi" : "はい",
+                    "definition" : "ashes; puckery juice; cremate",
                     "examples" : ["","",""]
                 }
             ],
     "Group 36" :
-    沸 【フツ・わ.く・わ.かす】 seethe; boil; ferment; uproar; breed
-菓 【カ】 candy; cakes; fruit
-帽 【ボウ・モウ・ずきん・おお.う】 cap; headgear
-枯 【コ・か.れる・か.らす】 wither; die; dry up; be seasoned
-涼 【リョウ・すず.しい・すず.む・すず.やか・うす.い・ひや.す・まことに】 refreshing; nice and cool
-舟 【シュウ・ふね・ふな~・~ぶね】 boat; ship
-貝 【バイ・かい】 shellfish
-符 【フ】 token; sign; mark; tally; charm
-憎 【ゾウ・にく.む・にく.い・にく.らしい・にく.しみ】 hate; detest
-皿 【ベイ・さら】 dish; a helping; plate
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "沸",
+                    "onyomi" : "フツ",
+                    "kunyomi" : "わ.く・わ.かす",
+                    "definition" : "seethe; boil; ferment; uproar; breed",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "菓",
+                    "onyomi" : "カ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "candy; cakes; fruit",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "帽",
+                    "onyomi" : "ボウ・モウ",
+                    "kunyomi" : "ずきん・おお.う",
+                    "definition" : "cap; headgear",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "枯",
+                    "onyomi" : "コ",
+                    "kunyomi" : "か.れる・か.らす",
+                    "definition" : "wither; die; dry up; be seasoned",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "涼",
+                    "onyomi" : "リョウ",
+                    "kunyomi" : "すず.しい・すず.む・すず.やか・うす.い・ひや.す・まことに",
+                    "definition" : "refreshing; nice and cool",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "舟",
+                    "onyomi" : "シュウ",
+                    "kunyomi" : "ふね・ふな~・~ぶね",
+                    "definition" : "boat; ship",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "貝",
+                    "onyomi" : "バイ",
+                    "kunyomi" : "かい",
+                    "definition" : "shellfish",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "符",
+                    "onyomi" : "フ",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "token; sign; mark; tally; charm",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "憎",
+                    "onyomi" : "ゾウ",
+                    "kunyomi" : "にく.む・にく.い・にく.らしい・にく.しみ",
+                    "definition" : "hate; detest",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "皿",
+                    "onyomi" : "ベイ",
+                    "kunyomi" : "さら",
+                    "definition" : "dish; a helping; plate",
                     "examples" : ["","",""]
                 }
             ],
     "Group 37" : 
-    肯 【コウ・がえんじ.る】 agreement; consent; comply with
-燥 【ソウ・はしゃ.ぐ】 parch; dry up
-畜 【チク】 livestock; domestic fowl and animals
-挟 【キョウ・ショウ・はさ.む・はさ.まる・わきばさ.む・さしはさ.む】 pinch; between
-曇 【ドン・くも.る】 cloudy weather; cloud up
-滴 【テキ・しずく・したた.る】 drip; drop
-伺 【シ・うかが.う】 pay respects; visit; ask; inquire; question; implore
             [
                 {   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "肯",
+                    "onyomi" : "コウ",
+                    "kunyomi" : "がえんじ.る",
+                    "definition" : "agreement; consent; comply with",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "燥",
+                    "onyomi" : "ソウ",
+                    "kunyomi" : "はしゃ.ぐ",
+                    "definition" : "parch; dry up",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
+                    "kanji" : "畜",
+                    "onyomi" : "チク",
                     "kunyomi" : "",
-                    "definition" : "",
+                    "definition" : "livestock; domestic fowl and animals",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "挟",
+                    "onyomi" : "キョウ・ショウ",
+                    "kunyomi" : "はさ.む・はさ.まる・わきばさ.む・さしはさ.む",
+                    "definition" : "pinch; between",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "曇",
+                    "onyomi" : "ドン",
+                    "kunyomi" : "くも.る",
+                    "definition" : "cloudy weather; cloud up",
                     "examples" : ["","",""]
                 },{
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "滴",
+                    "onyomi" : "テキ",
+                    "kunyomi" : "しずく・したた.る",
+                    "definition" : "drip; drop",
                     "examples" : ["","",""]
                 },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
-                },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
-                },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
-                    "examples" : ["","",""]
-                },{   
-                    "kanji" : "",
-                    "onyomi" : "",
-                    "kunyomi" : "",
-                    "definition" : "",
+                    "kanji" : "伺",
+                    "onyomi" : "シ",
+                    "kunyomi" : "うかが.う",
+                    "definition" : "pay respects; visit; ask; inquire; question; implore",
                     "examples" : ["","",""]
                 }
-            ]*/
+            ]
 }

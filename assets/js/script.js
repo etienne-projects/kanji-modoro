@@ -86,7 +86,7 @@ let n3ButtonClick = document.getElementById('n3').addEventListener('click', func
     groupTitle.innerHTML = 'Pick A Group'
     groupButtonAction(n)
 })
-let n2ButtonClick = document.getElementById('n2').addEventListener('click', function(){
+/*let n2ButtonClick = document.getElementById('n2').addEventListener('click', function(){
     for (let i = 0; i < levelButtons.length; i++) {
             levelButtons[i].classList.remove('selected')
     }
@@ -106,7 +106,7 @@ let n1ButtonClick = document.getElementById('n1').addEventListener('click', func
     groupTitle.innerHTML = 'Pick A Group'
     groupButtonAction(n)
 })
-
+*/
 
 
 // Group Buttons - Working

@@ -1,5 +1,5 @@
 const N1 = { 
-    "Group 01" : 
+    /*"Group 01" : 
             [
                 {   
                     "kanji" : "",
@@ -707,5 +707,5 @@ const N1 = {
                     "definition" : "",
                     "examples" : ["","",""]
                 }
-            ],
+            ],*/
 }

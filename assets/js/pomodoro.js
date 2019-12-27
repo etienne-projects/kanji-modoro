@@ -6,6 +6,9 @@ const workDisplay = document.getElementById("set-minutes");
 let count = 0;
 let workSession;
 
+// Set intial minutes
+document.getElementById("showtime").innerHTML = `00時 ${workClicks.toString().padStart(2, '0')}分 00秒`
+
 //increase work time
 const increaseWork = document.getElementById("add-time");
 increaseWork.addEventListener("click", function(){
@@ -18,7 +21,7 @@ const decreaseWork = document.getElementById("subtract-time");
 decreaseWork.addEventListener("click", function(){
     workClicks -= 1;
     workDisplay.innerHTML = workClicks;
-    if (workClicks < 1){
+    if (workClicks < 1){ // Todo: Max of 59
         workClicks = 1;
         workDisplay.innerHTML = workClicks;
     };
@@ -79,7 +82,7 @@ function reset(){
         workSession = null;
     } 
 
-    document.getElementById("showtime").innerHTML = "00時 00分 00秒";
+    document.getElementById("showtime").innerHTML = `00時 ${workClicks.toString().padStart(2, '0')}分 00秒`;
     document.getElementById("pause").disabled = false;
     document.getElementById("resume").disabled = false;
 }

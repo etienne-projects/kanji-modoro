@@ -1,20 +1,20 @@
 //pomodoro
 
 //Set Global variables
-var workClicks = 25;
-var workDisplay = document.getElementById("set-minutes");
-var count = 0;
-var workSession;
+let workClicks = 25;
+const workDisplay = document.getElementById("set-minutes");
+let count = 0;
+let workSession;
 
 //increase work time
-var increaseWork = document.getElementById("add-time");
+const increaseWork = document.getElementById("add-time");
 increaseWork.addEventListener("click", function(){
     workClicks += 1;
     workDisplay.innerHTML = workClicks;
 }, false);
 
 //decrease work time
-var decreaseWork = document.getElementById("subtract-time");
+const decreaseWork = document.getElementById("subtract-time");
 decreaseWork.addEventListener("click", function(){
     workClicks -= 1;
     workDisplay.innerHTML = workClicks;
@@ -34,13 +34,14 @@ function start(){
 //workCountDown()
 
 function workCountDown(){
-    var seconds = count;
-    var hours = Math.floor(seconds / 3600);
+    debugger;
+    let seconds = count;
+    let minutes = Math.floor(seconds / 60);
+    let hours = Math.floor(seconds / 3600);
     seconds -= hours * 3600;
-    var minutes = Math.floor(seconds / 60);
     seconds -= minutes * 60; 
     document.getElementById("showtime").innerHTML = ('00' + hours).slice(-2) + "時 " + ('00' + minutes).slice(-2) + "分 " + ('00' + seconds).slice(-2)　+ "秒";
-    count --;
+    count--;
 
     if (count < 0){
         clearInterval(workSession);

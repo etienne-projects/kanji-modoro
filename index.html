@@ -12,9 +12,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="assets/css/styles.css">
     <link href="https://fonts.googleapis.com/css?family=Kosugi+Maru|Concert+One|Darker+Grotesque|Didact+Gothic|Fugaz+One|Nanum+Gothic|Sigmar+One&display=swap" rel="stylesheet">
-    <script src="./assets/data/n5.js"></script>
-    <script src="./assets/data/n4.js"></script>
-    <script src="./assets/data/n3.js"></script>
+    <script defer src="./assets/data/n5.js"></script>
+    <script defer src="./assets/data/n4.js"></script>
+    <script defer src="./assets/data/n3.js"></script>
     <script defer src="assets/js/pomodoro.js"></script>
     <!-- <script src="./assets/data/n2.js"></script>
     <script src="./assets/data/n1.js"></script> -->
@@ -112,18 +112,19 @@
             </div>
             <div id="pomodoro-container">
                 <div id="set-timer">
-                    <button id="add-time"> &plus; </button>
-                    <span id="minute-kanji"><span id="set-minutes">25</span>分</span>
-                    <button id="subtract-time"> &minus; </button>
+                    <button id="subtract-time">&#9660;</button>
+                    <span id="minute-kanji">
+                        <span id="set-work-duration">00</span>分</span>
+                    <button id="add-time">&#9650;</button>
                 </div>
                 <div id="pomodoro-buttons-container">
-                    <button id="start" onclick="start()">Start</button>
-                    <button id="pause" onclick="pause()">Pause</button>
-                    <button id="resume" onclick="resume()">Resume</button>
-                    <button id="reset" onclick="reset()">Reset</button>
+                    <button id="start">&#9654;</button>
+                    <button id="pause">&#9208;</button>
+                    <!-- <button id="resume">Resume</button> -->
+                    <button id="reset">&#8634;</button>
                 </div>
                 <div id="pomodoro-display">
-                    <span id="showtime">00時 00分 00秒</span>
+                    <span id="showtime"><span id="display-hours">00</span>時 <span id="display-minutes">00</span>分 <span id="display-seconds">00</span>秒</span>
                 </div>
             </div>
             <div id="level-group-title">

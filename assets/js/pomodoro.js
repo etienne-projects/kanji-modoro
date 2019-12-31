@@ -3,128 +3,136 @@
 const timeToString = time => time.toString().padStart(2, '0');
 
 //Set Global variables
-//let initialTimes.minutes = 25;
 const initialTimes = {
-    minutes: 25,
+    minutes: 5,
     seconds: 0,
 };
-const initialDisplayTimes = () => {
-    return {
-        minutes: timeToString(initialTimes.minutes),
-        seconds: timeToString(initialTimes.seconds),
-    };
-};
-const timeRemaining = {'seconds': initialTimes.minutes * 60}; // seconds
-const currentTimes = {
-    minutes: initialTimes.minutes,
-    seconds: timeRemaining.seconds, //initialTimes.seconds,
-};
-const workSession = {'id': null,};
+const secondsRemaining = (minutes=initialTimes.seconds) => ({'seconds': minutes * 60});
 
-const workDurationDisplay = () => document.getElementById('set-work-duration');
-const incrementWorkDurationButton = () => document.getElementById('add-time');
-const decrementWorkDurationButton = () => document.getElementById('subtract-time');
+const currentTimes = {};
+const setCurrentTimes = (minutes, seconds) => {
+    currentTimes.minutes = minutes;
+    currentTimes.seconds = seconds;
+};
+
+setCurrentTimes(initialTimes.minutes, initialTimes.seconds);
+
+const workSession = {id: null,};
+const workDurationDisplay = document.getElementById('work-duration');
+const incrementWorkDurationButton = document.getElementById(
+    'add-time'
+);
+const decrementWorkDurationButton = document.getElementById(
+    'subtract-time'
+);
+const durationLimit = {
+    max: 59,
+    min: 1,
+};
+
+const setWorkDurationDisplay = minutes => {
+    workDurationDisplay.textContent = timeToString(minutes);
+};
+
+// Config Work Duration
+setWorkDurationDisplay(initialTimes.minutes);
+
+// Increment Work Duration
+incrementWorkDurationButton.addEventListener("click", () => {
+    initialTimes.minutes += 1;
+
+    if (initialTimes.minutes > durationLimit.max){
+        initialTimes.minutes = durationLimit.max;
+    };
+
+    setWorkDurationDisplay(initialTimes.minutes);
+});
+
+
+// Decrement Work Duration
+decrementWorkDurationButton.addEventListener("click", () => {
+    initialTimes.minutes -= 1;
+
+    if (initialTimes.minutes < durationLimit.min){
+        initialTimes.minutes = durationLimit.min;
+    };
+
+    setWorkDurationDisplay(initialTimes.minutes);
+});
 
 const displayMinutes = document.getElementById('display-minutes');
 const displaySeconds = document.getElementById('display-seconds');
 
-workDurationDisplay().textContent = initialDisplayTimes().minutes;
-displayMinutes.textContent = initialDisplayTimes().minutes;
-displaySeconds.textContent = initialDisplayTimes().seconds;
+const setTimerDisplay = (minutes, seconds) => {
+    displayMinutes.textContent = timeToString(minutes);
+    displaySeconds.textContent = timeToString(seconds);
+}
+
+setTimerDisplay(initialTimes.minutes, initialTimes.seconds);
+
+const resetTimer = () => {
+    if (workSession.id) {
+        setStartIcon();
+        clearTimerSession();
+    }
+    setCurrentTimes(
+        initialTimes.minutes,
+        secondsRemaining(initialTimes.minutes).seconds
+    );
+    setTimerDisplay(initialTimes.minutes, initialTimes.seconds);
+};
+
+
+const timerCountDown = () => {
+    let seconds = currentTimes.seconds;
+    let minutes = Math.floor(seconds / 60);
+    seconds -= minutes * 60;
+    setTimerDisplay(minutes, seconds);
+    currentTimes.seconds--;
+
+    if (currentTimes.seconds < 0) {
+        setTimeout(resetTimer, 1000);
+    }
+};
 
 
 // Timer Buttons
 const startButton = document.getElementById('start');
 const resetButton = document.getElementById('reset');
-const START_ICON = '&#9654;';
-const PAUSE_ICON = '&#9208;';
-const RESET_ICON = '&#8634;';
+const ICON = {
+    start: '&#9654;',
+    pause: '&#9208;',
+    reset: '&#8634;',
+};
 
-//currentTimes.seconds = initialTimes.minutes * 60;
+const setStartIcon = () => { startButton.innerHTML = ICON.start; };
+const setPauseIcon = () => { startButton.innerHTML = ICON.pause; };
+
+
+const clearTimerSession = () => {
+    clearInterval(workSession.id);
+    workSession.id = null;
+};
+
+const pauseTimer = () => {
+    // pauseTimer
+    setStartIcon();
+    clearTimerSession();
+};
+
+const startTimer = () => {
+    // startTimer
+    setPauseIcon();
+    timerCountDown();
+    workSession.id = setInterval(timerCountDown, 1000);
+};
+
 
 startButton.addEventListener('click', () => {
-    console.log(currentTimes);
-    
-    if (workSession.id) {
-        // pauseTimer
-        // set start icon
-        startButton.innerHTML = START_ICON;
-        clearInterval(workSession.id);
-        workSession.id = null;
-    }
-    else {
-        // startTimer
-        // set pause icon
-        startButton.innerHTML = PAUSE_ICON;
-        console.log('No current session, starting timer: ', workSession
-        .id);
-        // Run timerCountDown function once before setting interval to avoid 1 s
-        timerCountDown();
-        workSession.id = setInterval(timerCountDown, 1000);
-    }
+    workSession.id ? pauseTimer() : startTimer();
 });
 
 
 resetButton.addEventListener('click', () => {
-    if (workSession.id) {
-        clearInterval(workSession.id);
-        workSession.id = null;
-        
-    }
-
-    console.log('initial: ', initialDisplayTimes(), workSession.id);
-    currentTimes.minutes = initialTimes.minutes;
-    currentTimes.seconds = timeRemaining.seconds; // Todo: Remove possible redundant variable...
-    displayMinutes.textContent = initialDisplayTimes().minutes; //timeToString(initialTimes.minutes)//initialDisplayTimes.minutes;
-    displaySeconds.textContent = initialDisplayTimes().seconds;
-    console.log('reset...');
+    resetTimer();
 });
-
-
-// Todo: Enable 
-//increase work time
-incrementWorkDurationButton().addEventListener("click", function(){
-    initialTimes.minutes += 1;
-    if (initialTimes.minutes > 59){ // Todo: Max and Min consts
-        initialTimes.minutes = 59;
-    };
-    workDurationDisplay().textContent = initialTimes.minutes;
-}, false);
-
-//decrease work time
-decrementWorkDurationButton().addEventListener("click", function(){
-    initialTimes.minutes -= 1;
-    //workDurationDisplay().innerHTML = workDuration;
-    if (initialTimes.minutes < 1){ // Todo: Max of 59
-        initialTimes.minutes = 1;
-    };
-    workDurationDisplay().textContent = initialTimes.minutes;
-}, false);
-
-
-
-
-
-// Todo: ES6, move since arrow functions are not hoisted...
-function timerCountDown(){
-    let seconds = currentTimes.seconds;
-    let minutes = Math.floor(seconds / 60);
-//    let hours = Math.floor(seconds / 3600);
-//    seconds -= hours * 3600;
-    seconds -= minutes * 60;
-    //document.getElementById("showtime").innerHTML = ('00' + hours).slice(-2) + "時 " + ('00' + minutes).slice(-2) + "分 " + ('00' + seconds).slice(-2)　+ "秒";
-    displayMinutes.textContent = timeToString(minutes);
-    displaySeconds.textContent = timeToString(seconds);
-    console.log('current: ', currentTimes.seconds, workSession.id);
-    currentTimes.seconds--;
-    console.log('current: ', currentTimes.seconds, workSession.id);
-    
-    if (currentTimes.seconds < 0) { // Try with less than 1
-        clearInterval(workSession.id);
-        workSession.id = null;
-        displayMinutes.textContent = timeToString(0);
-        displaySeconds.textContent = timeToString(0);
-    }
-    
-    console.log('inside workCountdown: ', workSession.id);
-}

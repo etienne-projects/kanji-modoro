@@ -115,13 +115,11 @@ const clearTimerSession = () => {
 };
 
 const pauseTimer = () => {
-    // pauseTimer
     setStartIcon();
     clearTimerSession();
 };
 
 const startTimer = () => {
-    // startTimer
     setPauseIcon();
     timerCountDown();
     workSession.id = setInterval(timerCountDown, 1000);

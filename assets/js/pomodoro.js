@@ -1,89 +1,136 @@
 //pomodoro
 
+const timeToString = time => time.toString().padStart(2, '0');
+
 //Set Global variables
-let workClicks = 25;
-const workDisplay = document.getElementById("set-minutes");
-let count = 0;
-let workSession;
+const initialTimes = {
+    minutes: 5,
+    seconds: 0,
+};
+const secondsRemaining = (minutes=initialTimes.seconds) => ({'seconds': minutes * 60});
 
-// Set intial minutes
-document.getElementById("showtime").innerHTML = `00時 ${workClicks.toString().padStart(2, '0')}分 00秒`
+const currentTimes = {};
+const setCurrentTimes = (minutes, seconds) => {
+    currentTimes.minutes = minutes;
+    currentTimes.seconds = seconds;
+};
 
-//increase work time
-const increaseWork = document.getElementById("add-time");
-increaseWork.addEventListener("click", function(){
-    workClicks += 1;
-    workDisplay.innerHTML = workClicks;
-}, false);
+setCurrentTimes(initialTimes.minutes, initialTimes.seconds);
 
-//decrease work time
-const decreaseWork = document.getElementById("subtract-time");
-decreaseWork.addEventListener("click", function(){
-    workClicks -= 1;
-    workDisplay.innerHTML = workClicks;
-    if (workClicks < 1){ // Todo: Max of 59
-        workClicks = 1;
-        workDisplay.innerHTML = workClicks;
+const workSession = {id: null,};
+const workDurationDisplay = document.getElementById('work-duration');
+const incrementWorkDurationButton = document.getElementById(
+    'add-time'
+);
+const decrementWorkDurationButton = document.getElementById(
+    'subtract-time'
+);
+const durationLimit = {
+    max: 59,
+    min: 1,
+};
+
+const setWorkDurationDisplay = minutes => {
+    workDurationDisplay.textContent = timeToString(minutes);
+};
+
+// Config Work Duration
+setWorkDurationDisplay(initialTimes.minutes);
+
+// Increment Work Duration
+incrementWorkDurationButton.addEventListener("click", () => {
+    initialTimes.minutes += 1;
+
+    if (initialTimes.minutes > durationLimit.max){
+        initialTimes.minutes = durationLimit.max;
     };
-}, false);
+
+    setWorkDurationDisplay(initialTimes.minutes);
+});
 
 
-//start button
-function start(){
-    clearInterval(workSession); // Prevents crazy accumulation of calls to workCountDown...
-    count = workClicks * 60;
-    workSession = setInterval(workCountDown, 1000);//count down function
+// Decrement Work Duration
+decrementWorkDurationButton.addEventListener("click", () => {
+    initialTimes.minutes -= 1;
+
+    if (initialTimes.minutes < durationLimit.min){
+        initialTimes.minutes = durationLimit.min;
+    };
+
+    setWorkDurationDisplay(initialTimes.minutes);
+});
+
+const displayMinutes = document.getElementById('display-minutes');
+const displaySeconds = document.getElementById('display-seconds');
+
+const setTimerDisplay = (minutes, seconds) => {
+    displayMinutes.textContent = timeToString(minutes);
+    displaySeconds.textContent = timeToString(seconds);
 }
 
-//workCountDown()
+setTimerDisplay(initialTimes.minutes, initialTimes.seconds);
 
-function workCountDown(){
-    let seconds = count;
-    let minutes = Math.floor(seconds / 60);
-    let hours = Math.floor(seconds / 3600);
-    seconds -= hours * 3600;
-    seconds -= minutes * 60; 
-    document.getElementById("showtime").innerHTML = ('00' + hours).slice(-2) + "時 " + ('00' + minutes).slice(-2) + "分 " + ('00' + seconds).slice(-2)　+ "秒";
-    count--;
-    
-    if (count < 0){
-        clearInterval(workSession);
-        workSession = null;
-        document.getElementById("showtime").innerHTML = "00時 00分 00秒";
+const resetTimer = () => {
+    if (workSession.id) {
+        setStartIcon();
+        clearTimerSession();
     }
-    
-    console.log('inside workCountdown: ', workSession);
-    
-}
+    setCurrentTimes(
+        initialTimes.minutes,
+        secondsRemaining(initialTimes.minutes).seconds
+    );
+    setTimerDisplay(initialTimes.minutes, initialTimes.seconds);
+};
 
 
-//pause button
-function pause(){
-    clearInterval(workSession);
-    workSession = null;
-}
+const timerCountDown = () => {
+    let seconds = currentTimes.seconds;
+    let minutes = Math.floor(seconds / 60);
+    seconds -= minutes * 60;
+    setTimerDisplay(minutes, seconds);
+    currentTimes.seconds--;
+
+    if (currentTimes.seconds < 0) {
+        setTimeout(resetTimer, 1000);
+    }
+};
 
 
-//resume button
-function resume(){
-    //debugger;
-    console.log('inside resume: ', workSession);
-    
-    workSession = setInterval(workCountDown, 1000);
-    console.log('inside resume, after: ', workSession);
-    
-}
+// Timer Buttons
+const startButton = document.getElementById('start');
+const resetButton = document.getElementById('reset');
+const ICON = {
+    start: '&#9654;',
+    pause: '&#9208;',
+    reset: '&#8634;',
+};
+
+const setStartIcon = () => { startButton.innerHTML = ICON.start; };
+const setPauseIcon = () => { startButton.innerHTML = ICON.pause; };
 
 
-//reset button
-function reset(){
-    if(workSession){
-        clearInterval(workSession);
-        workSession = null;
-    } 
+const clearTimerSession = () => {
+    clearInterval(workSession.id);
+    workSession.id = null;
+};
 
-    document.getElementById("showtime").innerHTML = `00時 ${workClicks.toString().padStart(2, '0')}分 00秒`;
-    document.getElementById("pause").disabled = false;
-    document.getElementById("resume").disabled = false;
-}
+const pauseTimer = () => {
+    setStartIcon();
+    clearTimerSession();
+};
 
+const startTimer = () => {
+    setPauseIcon();
+    timerCountDown();
+    workSession.id = setInterval(timerCountDown, 1000);
+};
+
+
+startButton.addEventListener('click', () => {
+    workSession.id ? pauseTimer() : startTimer();
+});
+
+
+resetButton.addEventListener('click', () => {
+    resetTimer();
+});
